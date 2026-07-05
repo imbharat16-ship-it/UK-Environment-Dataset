@@ -21,99 +21,99 @@ Questions marked **CAN SIMULATE** in the full transcript below. Type uses full n
 
 **Source:** [`simulation--SEED-UK-Plastic-Eliza-Personalized-Commercial-.pdf`](simulation--SEED-UK-Plastic-Eliza-Personalized-Commercial-.pdf) · Overall match **27%**
 
-The PDF simulated **five** of the seven CAN SIMULATE turns. **Predicted (PDF)** and **Actual (PDF)** are verbatim from the PDF. **Transcript (actual)** below is verbatim from the full interview transcript in this file, including interviewer follow-ups on the same thread. The PDF **Actual** column often pulls answers from the wrong point in the interview.
+The PDF simulated **five** of the seven CAN SIMULATE turns. **Predicted (PDF)** and **Actual (PDF)** are verbatim from the PDF. **Transcript (actual)** below is verbatim from the full interview transcript in this file. Two re-scoring methods are applied below: **Re-scoring A** (weighted rubric) and **Re-scoring B** (judgment prompt).
 
 ---
 
-#### #13 · How are you deciding between laundry tablets, capsules, and powder? · PDF match **66%**
+#### #13 · How are you deciding between laundry tablets, capsules, and powder? · PDF **66%** · Rubric first turn **64%** · Rubric full thread **68%** · Judgment first turn **72** · Judgment full thread **78**
 
 | | Response |
 |---|----------|
 | **Predicted (PDF)** | Mostly by the price, to be honest. If I can get like a small cheap box, I would rather do that first. I would probably go more for capsules, because I've seen those cheaper little ones, like £1-2, and I don't want to spend more on a big one if I don't know if I'm going to like it. Powder I would get only if it was cheaper, but mainly I'm just looking at what costs less and what is less waste if I end up not liking it. |
 | **Actual (PDF)** | *(Misaligned — excerpt from prior answer on food budget/freezing, not laundry-specific.)* its like what I want to eat, like budget. If I'm going to eat like is it going to last? Can I freeze the food or am I going to be here next week to eat all this food |
 
-**Transcript (actual):**
+**Transcript (actual)** · *First turn = first **B:** below · Full thread = all **B:** through Smol*
 
 **A · CAN SIMULATE (#13):** And you were talking about the laundry there as well and you were saying that you're figuring out what's best for you, whether it's the tablets or the capsules or, do you have a preference just in terms of that?
 
-**B:** The first time I started using capsules was this year. Because last year obviously we were on those laundries on campus and to be fair I do have a lot of clothes so I don't have to do laundry every week. And to be fair I think when you're on campus it's a lot different because every time you go and do laundry on campus be there like once a week to twice a week, every time you go there its like £6. So it something that like for a student I had flat mates going and like yeah I have to go twice a week where that's almost £10. It is a lot. So you start managing that. And in terms of, I don't know because, yeah last year I bought a liquid for example, its like a whole litre of liquid and it lasted forever. And then, but then obviously I started realising how frequently I need to do my washing and everything, which is not that frequently because I have enough clothes. So yeah and it depends because sometimes you have trials, for example these last capsules that I bought was because I was part of a trial or something.
+**B · First turn:** The first time I started using capsules was this year. Because last year obviously we were on those laundries on campus and to be fair I do have a lot of clothes so I don't have to do laundry every week. And to be fair I think when you're on campus it's a lot different because every time you go and do laundry on campus be there like once a week to twice a week, every time you go there its like £6. So it something that like for a student I had flat mates going and like yeah I have to go twice a week where that's almost £10. It is a lot. So you start managing that. And in terms of, I don't know because, yeah last year I bought a liquid for example, its like a whole litre of liquid and it lasted forever. And then, but then obviously I started realising how frequently I need to do my washing and everything, which is not that frequently because I have enough clothes. So yeah and it depends because sometimes you have trials, for example these last capsules that I bought was because I was part of a trial or something.
 
 **A:** A trial?
 
-**B:** Yeah its kind of a trial of a student discount, its like ok we'll give you all a box with like 10 capsules and then if you want you can continue and buy it or you don't. So obviously there is some things and then a lot of promotions that are related to students, so it depends. I don't know which one I prefer to be honest. I think they're basically the same. I think if you do washing more frequently the definitely liquid.
+**B · Follow-up:** Yeah its kind of a trial of a student discount, its like ok we'll give you all a box with like 10 capsules and then if you want you can continue and buy it or you don't. So obviously there is some things and then a lot of promotions that are related to students, so it depends. I don't know which one I prefer to be honest. I think they're basically the same. I think if you do washing more frequently the definitely liquid.
 
 **A:** Right ok. And what, can you tell me a little bit more about this trial that you're involved with?
 
-**B:** So I mean basically I just, I think I just found it randomly on Instagram I think. Because there's a student at uni and she was promoting this.
+**B · Follow-up:** So I mean basically I just, I think I just found it randomly on Instagram I think. Because there's a student at uni and she was promoting this.
 
 **A:** Here?
 
-**B:** Yeah. I think there is a student at university and she was promoting this because like washing capsules like made out of recycling, it was something like that and I don't know these are really directed to students and I don't know I was just curious and I was like ok yeah sure. Yeah and then basically they offer the first 10 and then you can continue or you just stop. And I was like ok why not. Because I never tried capsules and to be fair I prefer to pay like £1-2 for those capsules than go to an actual grocery shop and spend like £5 on capsules that I don't know if I'm going to like. I don't know its just, and it's a good way, yeah you're going to have things to wash for the next month, one month, to months and yeah for like, it's a trial. I don't know.
+**B · Follow-up:** Yeah. I think there is a student at university and she was promoting this because like washing capsules like made out of recycling, it was something like that and I don't know these are really directed to students and I don't know I was just curious and I was like ok yeah sure. Yeah and then basically they offer the first 10 and then you can continue or you just stop. And I was like ok why not. Because I never tried capsules and to be fair I prefer to pay like £1-2 for those capsules than go to an actual grocery shop and spend like £5 on capsules that I don't know if I'm going to like. I don't know its just, and it's a good way, yeah you're going to have things to wash for the next month, one month, to months and yeah for like, it's a trial. I don't know.
 
 **A:** That's ok, I was just wondering if it was broader than that or if it was just the laundry tablets.
 
-**B:** I think, in terms of the brand I think they sell more things, they sell like dishwasher machines, type of thing, but we don't have one so there was no point. But I think its just cleaning products honestly.
+**B · Follow-up:** I think, in terms of the brand I think they sell more things, they sell like dishwasher machines, type of thing, but we don't have one so there was no point. But I think its just cleaning products honestly.
 
 **A:** And you mentioned that they were made out of recycled materials.
 
-**B:** I think so. I can give you the brand if you want. I can give you the name of the brand if you want to search.
+**B · Follow-up:** I think so. I can give you the brand if you want. I can give you the name of the brand if you want to search.
 
 **A:** Sure
 
-**B:** Its just, yeah I think their thing is they do, the plastic around the liquid basically, that involves the liquid, its made out of recycling plastics. I think its something like that. I think its something like that. And then they make it in smaller amounts so they don't have to waste as much. Like enough liquid to do a washing, but in small amounts so you don't have to waste as much plastic. I think its something like that.
+**B · Follow-up:** Its just, yeah I think their thing is they do, the plastic around the liquid basically, that involves the liquid, its made out of recycling plastics. I think its something like that. I think its something like that. And then they make it in smaller amounts so they don't have to waste as much. Like enough liquid to do a washing, but in small amounts so you don't have to waste as much plastic. I think its something like that.
 
 **A:** And what brand is that?
 
-**B:** Its called Smol.
+**B · Follow-up:** Its called Smol.
 
 ---
 
-#### #72 · From your experience, do you feel you understand the damage plastic can cause? · PDF match **0%**
+#### #72 · From your experience, do you feel you understand the damage plastic can cause? · PDF **0%** · Rubric first turn **56%** · Rubric full thread **59%** · Judgment first turn **58** · Judgment full thread **60**
 
 | | Response |
 |---|----------|
 | **Predicted (PDF)** | Not really, if I'm honest. I just know people always say plastic is bad for the environment and paper is better, but I don't really know exactly what damage it causes. I've never really got the information about why, I've just been hearing it since I was little. |
 | **Actual (PDF)** | *(Misaligned — answer about quick meals/pizza, not plastic damage.)* Sometimes when I say quick meals it might be like a pizza or something that I can just put in the oven and I won't have to worry. Because sometimes its not even just about the cooking, it's the cooking and the cleaning after. |
 
-**Transcript (actual):**
+**Transcript (actual)** · *First turn = first **B:** below · Full thread = both **B:** turns*
 
 **A · CAN SIMULATE (#72):** That's ok, so just in terms of kind of your experiences of the damage that plastic and can cause, is this something that
 
-**B:** I think all the damages and things that I know is like drastic things that I've heard about. But again its not even, I've never heard of anything like yeah because plastic did this and it caused this. I've always heard of yeah climate change did this and plastic is one of the causes of climate change, if that makes sense. So for example I do know how climate change and environment problems affect, and the damage it causes because I don't know things on the news and protests and things like that. But never plastic. I don't know, I just don't think its as much advertised. We all know it's a reason behind the environmental problems but no one actually talks about plastic specifically.
+**B · First turn:** I think all the damages and things that I know is like drastic things that I've heard about. But again its not even, I've never heard of anything like yeah because plastic did this and it caused this. I've always heard of yeah climate change did this and plastic is one of the causes of climate change, if that makes sense. So for example I do know how climate change and environment problems affect, and the damage it causes because I don't know things on the news and protests and things like that. But never plastic. I don't know, I just don't think its as much advertised. We all know it's a reason behind the environmental problems but no one actually talks about plastic specifically.
 
 **A:** No ok.
 
-**B:** I mean at least on my view. I've never seen that and that is a thing that we talk about, that we talk a lot in school for example. Its always like one of the subjects is something that is related to climate change and what to do to help the environment and things like that. And its never about, yeah, plastic.
+**B · Follow-up:** I mean at least on my view. I've never seen that and that is a thing that we talk about, that we talk a lot in school for example. Its always like one of the subjects is something that is related to climate change and what to do to help the environment and things like that. And its never about, yeah, plastic.
 
 ---
 
-#### #75 · How do you compare paper/cardboard vs plastic environmentally? · PDF match **25%**
+#### #75 · How do you compare paper/cardboard vs plastic environmentally? · PDF **25%** · Rubric first turn **89%** · Rubric full thread **89%** · Judgment **92**
 
 | | Response |
 |---|----------|
 | **Predicted (PDF)** | I think paper or cardboard is better for the environment than plastic, yeah. That's what people always say and I've been hearing that since I was little, so I believe that. But if I'm honest, I don't really know exactly why it is better, I've never got the information on that. |
 | **Actual (PDF)** | *(Misaligned — answer about cardboard takeaway box getting soft, not environmental comparison.)* usually when I put the food in the box its still hot, so the cardboard it becomes really soft. So its like, it breaks easily and everything and I just put it in the normal bin. |
 
-**Transcript (actual):**
+**Transcript (actual)** · *First turn = first **B:** below · Full thread = both **B:** turns*
 
 **A · CAN SIMULATE (#75):** Yeah, that's ok. And you mentioned when we were just talking about, when we just started to talk about the environmental impact of plastic. You mentioned there that you started to see some changes and that kind of organisations are starting to use paper instead of plastic. And I just wondered if you could tell me what your views are in terms of the environmental impact of maybe plastic versus paper or cardboard.
 
-**B:** Again this is awful to say but just this information never gets to us. People just say it is better to have paper and I always believe that it is because that's what I've been hearing since I was little. I've never got the information why is it better. Because now you're asking me this and I was like yeah, I mean paper is better, but why is it better and I have no idea because I don't understand the science behind it or what happens to the paper after, I have no idea. I don't know why is it better. I think its better because people say its better.  And they always say something like, yeah use paper, lets save the turtles. Why? Why, because I mean obviously if you throw plastic to the sea its going to be worse than throwing paper but its just as bad as throwing paper. So I don't understand why its that bad, but I don't think that information comes to us either way.
+**B · First turn:** Again this is awful to say but just this information never gets to us. People just say it is better to have paper and I always believe that it is because that's what I've been hearing since I was little. I've never got the information why is it better. Because now you're asking me this and I was like yeah, I mean paper is better, but why is it better and I have no idea because I don't understand the science behind it or what happens to the paper after, I have no idea. I don't know why is it better. I think its better because people say its better.  And they always say something like, yeah use paper, lets save the turtles. Why? Why, because I mean obviously if you throw plastic to the sea its going to be worse than throwing paper but its just as bad as throwing paper. So I don't understand why its that bad, but I don't think that information comes to us either way.
 
 **A:** Ok.
 
-**B:** They always talk about the big things but they never go to the actual, yeah you should do this because this happens, which sometimes that happens is [53:58] for example. At least in [home country].
+**B · Follow-up:** They always talk about the big things but they never go to the actual, yeah you should do this because this happens, which sometimes that happens is [53:58] for example. At least in [home country].
 
 ---
 
-#### #111 · What are your thoughts on food waste and throwing food away? · PDF match **10%**
+#### #111 · What are your thoughts on food waste and throwing food away? · PDF **10%** · Rubric first turn **84%** · Rubric full thread **84%** · Judgment **88**
 
 | | Response |
 |---|----------|
 | **Predicted (PDF)** | I don't like throwing food away. I grew up knowing this, that you don't throw food, because food costs money, because people don't have access to food. So for me it's just wasteful. |
 | **Actual (PDF)** | *(Misaligned — answer about ambiguous ramen/pasta packaging disposal, immediately before this question in transcript.)* I'm not even sure if its paper or if its plastic. I think its paper but the inside it might be plastic, I don't know. So I'm not sure what I'm supposed to do with it. |
 
-**Transcript (actual):**
+**Transcript (actual)** · *First turn = substantive **B:** after clarifying probe · Full thread = same (no further follow-ups)*
 
 **A · CAN SIMULATE (#111):** Ok. Right and I was wondering, so we've talked a little bit about like food waste, earlier on you were talking about food waste in terms of kind of throwing food away sometimes where you work and I was just wondering what your thoughts are on food waste or throwing food away.
 
@@ -121,36 +121,114 @@ The PDF simulated **five** of the seven CAN SIMULATE turns. **Predicted (PDF)** 
 
 **A:** Yeah
 
-**B:** I mean I think that unless the food is bad and you can't eat it there's always something you can do with it. But this, but to be fair this is a system that I lived in since ever. So I don't, its not that I think its wrong, because everyone does whatever they want, its just I grew up knowing this that you don't throw food, because food costs money, because people don't have access to food. I don't know, everyone does whatever they want obviously but I don't like the idea of yeah people need food or I am spending money on this food and then I'm just not using it when I could 100% use it for something else. And the days that I do end up wasting food because I don't know it ended up going bad or something, its always a moment of learning. Like ok well then I know that next time I don't need this amount. I don't know, just keep learning.
+**B · First turn:** I mean I think that unless the food is bad and you can't eat it there's always something you can do with it. But this, but to be fair this is a system that I lived in since ever. So I don't, its not that I think its wrong, because everyone does whatever they want, its just I grew up knowing this that you don't throw food, because food costs money, because people don't have access to food. I don't know, everyone does whatever they want obviously but I don't like the idea of yeah people need food or I am spending money on this food and then I'm just not using it when I could 100% use it for something else. And the days that I do end up wasting food because I don't know it ended up going bad or something, its always a moment of learning. Like ok well then I know that next time I don't need this amount. I don't know, just keep learning.
 
 ---
 
-#### #112 · Research says plastic packaging can keep food fresher — how do you weigh that against plastic waste? · PDF match **34%**
+#### #112 · Research says plastic packaging can keep food fresher — how do you weigh that against plastic waste? · PDF **34%** · Rubric first turn **79%** · Rubric full thread **79%** · Judgment **82**
 
 | | Response |
 |---|----------|
 | **Predicted (PDF)** | I know plastic waste is not good, but if the plastic keeps the food fresh longer, I would probably buy that. For me, I don't like throwing food away, because it's wasting food and wasting money. So if plastic can make it last longer, yeah, I would lean to that even if paper is better for the planet. |
 | **Actual (PDF)** | *(Misaligned — same packaging-disposal thread as above, not the food-waste vs plastic tradeoff answer.)* Maybe I'm just being lazy. I never thought it was the type of thing that is worthy for me to go and open the door or go to the other side of the house and put in a specific box. |
 
-**Transcript (actual):**
+**Transcript (actual)** · *First turn = only **B:** (no follow-ups on this thread)*
 
 **A · CAN SIMULATE (#112):** Ok and also so there's been kind of some studies, some research which has kind of talked about how plastic food packaging can prolong the life of food. So it keeps it fresher for longer, so like fresh fruits and vegetables. And I just wondered what your thoughts were on in terms of using plastic and then the plastic waste that results from that versus keeping food fresher to avoid the food waste. And I just wondered what your thoughts were on both of those.
 
-**B:** Yeah I don't know because again its not that I can't be impartial because I don't know the science behind the plastic in terms of yes I know its bad for the environment because I saw that it is but I don't understand why. Like specifically what is the thing that is so bad about plastic? Ok yeah assuming that the plastic is not going to go in, throwing at the sea and polluting, but what is the thing about plastic that is so bad, I don't understand that. While with food I understand what is so bad about wasting food. I've seen the damaging in the, the people that don't have access to food and stuff like that and I know how much it costs to buy food because obviously I pay for food so, its something that I have more present in my life than what plastic waste actually is. So I think I would prefer to buy something in plastic that can make, yeah that can make food longer, that just buy something in paper and then the food goes bad. Because I think maybe its just because its something that is more present in my life because I know how bad it is to just, I mean I've seen how bad it is to not get food. I know there are people that cannot have food. I know how much it costs to get money and then to buy food. So yeah it's a bit like that. I think I just don't know the science behind plastic that much.
+**B · First turn:** Yeah I don't know because again its not that I can't be impartial because I don't know the science behind the plastic in terms of yes I know its bad for the environment because I saw that it is but I don't understand why. Like specifically what is the thing that is so bad about plastic? Ok yeah assuming that the plastic is not going to go in, throwing at the sea and polluting, but what is the thing about plastic that is so bad, I don't understand that. While with food I understand what is so bad about wasting food. I've seen the damaging in the, the people that don't have access to food and stuff like that and I know how much it costs to buy food because obviously I pay for food so, its something that I have more present in my life than what plastic waste actually is. So I think I would prefer to buy something in plastic that can make, yeah that can make food longer, that just buy something in paper and then the food goes bad. Because I think maybe its just because its something that is more present in my life because I know how bad it is to just, I mean I've seen how bad it is to not get food. I know there are people that cannot have food. I know how much it costs to get money and then to buy food. So yeah it's a bit like that. I think I just don't know the science behind plastic that much.
 
 ---
 
 #### Summary
 
-| # | Question (short) | PDF match | Predicted ≈ transcript? |
-|---|------------------|-----------|-------------------------|
-| 13 | Laundry tablets/capsules/powder | 66% | Partial — both cite price; transcript adds campus laundry cost, trial/Smol, no fixed preference |
-| 72 | Understand plastic damage? | 0% | Partial — both say limited understanding; PDF "Actual" was wrong excerpt |
-| 75 | Paper vs plastic environmentally | 25% | Yes on stance (paper better, don't know why); PDF "Actual" was wrong excerpt |
-| 111 | Food waste thoughts | 10% | Yes — simulated aligns well with transcript; PDF "Actual" was wrong excerpt |
-| 112 | Plastic packaging vs food freshness | 34% | Yes — simulated captures food-waste-over-plastic tradeoff; PDF "Actual" was wrong excerpt |
+**PDF reported match (Predicted vs PDF Actual): 27% overall** — unreliable because four of five PDF Actual snippets came from the wrong point in the interview.
 
-**Main issue:** Four of five PDF **Actual** snippets do not correspond to the question asked. Re-scoring against the transcript, **Predicted** answers for **#75, #111, and #112** are much closer to Eliza's real replies than the reported 10–34% scores suggest. **#72** Predicted aligns reasonably with transcript (vague knowledge, hearsay); the 0% score reflects PDF using an unrelated Actual. **#13** is the best partial match at 66%.
+---
+
+#### Re-scoring A · Weighted rubric
+
+Compares single-turn **Predicted** against the transcript two ways: **First turn** (opening **B:** only) and **Full thread** (all **B:** turns on the same topic, including follow-ups). Weights: 35% stance / 45% behavior / 20% episodic.
+
+| Scope | Overall | Notes |
+|-------|---------|-------|
+| **First turn** (opening **B:** only) | **~74%** | Fairer comparison: single-turn Predicted vs single-turn actual |
+| **Full thread** (all **B:** on topic) | **~76%** | Includes follow-up material Eliza adds when probed |
+
+| Dimension | Weight | What it measures |
+|-----------|--------|------------------|
+| Stance / tradeoff | 35% | Does she land on the same judgment? |
+| Behavioral pattern | 45% | Hearsay, knowledge gaps, food-over-plastic priority, student budget logic |
+| Episodic detail | 20% | Smol, campus laundry, Instagram trial, climate-vs-plastic framing, etc. |
+
+| # | Question (short) | PDF | First turn | Full thread | Follow-ups? | Main gap |
+|---|------------------|-----|------------|-------------|-------------|----------|
+| 13 | Laundry tablets/capsules/powder | 66% | **64%** | **68%** | Yes | Missing "basically the same," Smol/Instagram |
+| 72 | Understand plastic damage? | 0% | **56%** | **59%** | Yes | Climate-vs-plastic frame partly in follow-up |
+| 75 | Paper vs plastic environmentally | 25% | **89%** | **89%** | Yes (minor) | Core stance in first turn |
+| 111 | Food waste thoughts | 10% | **84%** | **84%** | No | Repurpose-unless-bad; learning habit |
+| 112 | Plastic vs food freshness | 34% | **79%** | **79%** | No | Plastic-science ignorance loop |
+
+*Prior rubrics: 40/35/25 → ~74% full thread · 40/50/10 → ~78% full thread.*
+
+---
+
+#### Re-scoring B · Judgment prompt
+
+Rigorous open-ended evaluator. All five questions classified as **OPEN-ENDED** (free-text interview probes, no fixed option set). Score bands: 90–100 same substance and sentiment; 70–89 main point with minor gaps; 50–69 partially aligned; 30–49 substantially different; 0–29 contradictory or unrelated.
+
+<details>
+<summary>Evaluator prompt (template)</summary>
+
+```
+You are a rigorous evaluator scoring how well a PREDICTED survey/interview response matches the participant's ACTUAL response, from 0 to 100. Pick the scoring rule that fits the question type — never award credit merely because the two responses are about the same topic.
+
+## Question
+{{QUESTION_TEXT}}
+
+## Actual Response
+{{ACTUAL_RESPONSE}}
+
+## Predicted Response
+{{PREDICTED_RESPONSE}}
+
+## Step 1 — Classify the question
+- ORDERED SCALE: answers come from an ordered set — a Likert agreement scale (Disagree strongly ... Agree strongly), a frequency or importance scale, or a numeric rating (e.g. 1-9). Adjacent points mean nearly the same thing; opposite ends mean opposite things.
+- UNORDERED CHOICE: the answer is one or more options from a set with no inherent order (e.g. choosing a symptom or a product, yes/no, or a select-all list).
+- OPEN-ENDED: a free-text answer with no fixed option set.
+
+## Step 2 — Score by type
+### Ordered scale
+Locate both responses on the scale. If the question text does not make the scale explicit, infer the most standard scale for the item (e.g. a 5-point Likert agreement scale, or the numeric range named in the question) and state the scale you assumed in the rationale. Let d = the number of steps between them and R = the total number of steps from one end of the scale to the other. Score = round(100 * (1 - (d/R)^2)): an exact match is 100, a one-step gap is penalized only lightly, and the penalty grows quadratically as the gap widens. Two rules override this formula:
+  - DIRECTION FLIP: if the two responses fall on opposite sides of the scale's midpoint (e.g. agree vs disagree, support vs oppose, important vs unimportant), that is a substantive error — score no higher than 40 even if they are only one or two steps apart.
+  - Opposite extremes (e.g. Disagree strongly vs Agree strongly) score 0.
+### Unordered choice
+The same option selected scores 100. A different option scores 0 — do NOT give partial credit because two options share a theme; a wrong category is a miss. For select-all answers, score by Jaccard overlap: round(100 * (size of the intersection of the predicted and actual option sets / size of their union)).
+### Open-ended
+Judge whether the prediction conveys the same core stance, key insights, and sentiment as the actual answer: different wording with the same substance scores high, the same keywords with a different point scores low. Bands: 90-100 same substance and sentiment; 70-89 main point with minor gaps; 50-69 partially aligned; 30-49 substantially different or opposing; 0-29 contradictory or unrelated.
+
+## Step 3 — Rationale
+In matchRationale, state the question type, where each response sits (for scales, give both positions and the step distance d/R), and the rule that set the score. Keep it to 1-3 sentences.
+```
+
+</details>
+
+| # | Type | First turn | Full thread | matchRationale |
+|---|------|------------|-------------|----------------|
+| 13 | Open-ended | **72** | **78** | Both center cost-conscious student logic and low-commitment trials, but Predicted states a capsule preference whereas Actual (first turn) is still figuring it out with campus-laundry context; full thread adds "basically the same" and £1–2 trial detail Predicted partially captures. **Band: 70–89.** |
+| 72 | Open-ended | **58** | **60** | Both convey limited understanding, but Actual's key insight is that damage knowledge arrives via climate change framing, not plastic-specific messaging — Predicted instead cites generic "plastic bad / paper better" hearsay. Same topic, different insight structure. **Band: 50–69.** |
+| 75 | Open-ended | **92** | **92** | Same core stance: paper better because people say so, lifelong hearsay, no science behind it. Predicted omits "save the turtles" and littering-paper nuance but substance and sentiment match. **Band: 90–100.** |
+| 111 | Open-ended | **88** | **88** | Same values: don't throw food, upbringing, money, people lack access. Predicted misses repurpose-unless-bad and learning-from-spoilage but captures main point and sentiment. **Band: 90–100 (minor gaps → 88).** |
+| 112 | Open-ended | **82** | **82** | Same tradeoff: would choose plastic packaging to reduce food waste over abstract plastic concern. Predicted captures the preference but underplays Actual's plastic-science ignorance loop and "food waste more present in my life" reasoning. **Band: 70–89.** |
+
+**Judgment prompt overall:**
+
+| Scope | Overall | vs Rubric A |
+|-------|---------|-------------|
+| First turn | **~78** | +4pp |
+| Full thread | **~80** | +4pp |
+
+**Cross-method takeaway:** Judgment prompt scores run ~4pp higher than weighted rubric because it rewards same-substance/sentiment alignment without separately penalizing missing episodic detail (Smol, campus laundry, climate-vs-plastic frame). Largest gap between methods on **#72** (judgment 58–60 vs rubric 56–59): both flag the flattened climate framing. Strongest agreement on **#75** (judgment 92 vs rubric 89).
 
 ---
 
