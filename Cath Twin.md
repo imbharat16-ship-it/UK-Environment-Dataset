@@ -7,10 +7,19 @@
 
 ### Interview 2: Can simulate (selected turns)
 
-_Add manually after tagging turns in the arc tables below (append ` · CAN SIMULATE` to turn numbers). Copy type, paraphrase, and patterns from tagged rows._
+Questions marked **CAN SIMULATE** in the arc tables and full transcript below. Type uses full names (not encoded letters).
 
-| # | Type | Paraphrased question | Behavioral patterns |
-|---|------|---------------------|---------------------|
+| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
+|---|------|---------------------|---------------|---------------------|
+| 4 | Behavior probe | Does taking a step back from Twitter also extend to packaging choices when travelling? | When you say take a step back… does this also extend to plastic packaging when you were away? | `occasion_travel`, `attgap_plastic` |
+| 5 | Reflexive + behavior probe | You reuse yoghurt pots for garden labels — why don't you make your own bread, cakes, or yoghurt? | Going back to your interview… yoghurt pots for labels… you don't claim to use a lot of plastic… "otherwise it can make your life just so difficult" | `reuse_garden`, `attgap_plastic`, `garden_grow` |
+| 7 | Behavior probe | Can you say more about how deeply you feel about environmental issues? | What we've been talking about around environmental issues… how much you care… importance of green issues | `identity_green`, `attgap_plastic` |
+| 10 | Behavior probe | How do cardboard, glass, and paper packaging compare to plastic for you? | I wanted to ask you about the environmental impact of different packaging materials | `recycling_high`, `attgap_plastic` |
+| 11 | Behavior probe | Why do you sometimes steer toward cardboard rather than plastic or paper? | Why is it that you sometimes maybe steer towards cardboard then… | `recycling_high`, `attgap_plastic` |
+| 14 | Behavior probe | Do you try to tell friends and family about peat-free compost and plastic packaging? | You see family and friends… do you try to tell them about peat-free compost and plastic packaging? | `activism_social`, `recycling_high` |
+| 29 | Behavior probe | How does your meal planning relate to both food waste and plastic waste? | We've talked a lot about meal planning… how does that relate to food waste and plastic waste? | `foodwaste_chain`, `meal_plan` |
+| 30 | Behavior probe | On a scale, which feels worse environmentally: food waste or plastic waste? | If we maybe put them both on a scale what do you feel more strongly about? | `foodwaste_chain`, `attgap_plastic` |
+| 31 | Behavior probe | How do you respond to documentaries and media about plastic pollution? | Awareness about plastic pollution… documentaries and media… how do you respond? | `identity_green`, `activism_social` |
 
 ### Step summaries
 
@@ -133,16 +142,18 @@ _Add manually after tagging turns in the arc tables below (append ` · CAN SIMUL
 
 ### Behavioral lens summary across steps
 
-| Step | Primary lenses |
-| ---- | -------------- |
-| Interview 1 | Identity, Recycling diligence, Reuse tendency, Food waste sensitivity, Pricing/value |
-| Diary 1 | Occasion, Identity, Recycling diligence, Reuse tendency |
-| Diary 2 | Occasion, Recycling diligence, Reuse tendency, Attitude-behavior gap (soft plastics) |
-| Follow-up 1 | Attitude-behavior gap, Convenience tradeoff, Identity |
-| Diary 3 | Occasion (travel/Falmouth), Recycling diligence, Reuse tendency, Attitude-behavior gap |
-| Diary 4 | Occasion (Monday vs weekend), Food waste sensitivity, Recycling diligence, Pricing/value |
-| Follow-up 2 | Occasion, Food waste sensitivity, Attitude-behavior gap, Convenience tradeoff, Pricing/value |
+
+| Step        | Primary lenses                                                                                       |
+| ----------- | ---------------------------------------------------------------------------------------------------- |
+| Interview 1 | Identity, Recycling diligence, Reuse tendency, Food waste sensitivity, Pricing/value                 |
+| Diary 1     | Occasion, Identity, Recycling diligence, Reuse tendency                                              |
+| Diary 2     | Occasion, Recycling diligence, Reuse tendency, Attitude-behavior gap (soft plastics)                 |
+| Follow-up 1 | Attitude-behavior gap, Convenience tradeoff, Identity                                                |
+| Diary 3     | Occasion (travel/Falmouth), Recycling diligence, Reuse tendency, Attitude-behavior gap               |
+| Diary 4     | Occasion (Monday vs weekend), Food waste sensitivity, Recycling diligence, Pricing/value             |
+| Follow-up 2 | Occasion, Food waste sensitivity, Attitude-behavior gap, Convenience tradeoff, Pricing/value         |
 | Interview 2 | Identity, Activism, Reuse tendency, Attitude-behavior gap, Occasion (travel), Food waste sensitivity |
+
 
 ---
 
@@ -150,15 +161,17 @@ _Add manually after tagging turns in the arc tables below (append ` · CAN SIMUL
 
 Interview 2 is a closing conversation. The interviewer often **looks back** at what Cath said or did earlier in the study. When Cath answers, she is usually pulling from one of these earlier layers:
 
-| Earlier material | What Cath goes back to |
-| ---------------- | ---------------------- |
-| **Interview 1** | Green Party identity, wildlife gardening, soft-plastics pantry bag, Waitrose vs Aldi/Tesco split, Sunday meal planning, roast-chicken leftover chain, garden reuse of trays/pots, summer vs winter packaging |
-| **Diary 1–2** | Weekly Waitrose shops, Charlie Bigham ready meals, soft-plastic film accumulation, London day out, gardening + reused pots |
-| **Follow-up 1** | Microwave rice pouches in pantry and guilt about using them |
-| **Diary 3** | Bank holiday Monday feta-freezer habit; Falmouth travel; National Trust brunch packaging; M&S sandwiches; bin room; bringing soft plastics home |
-| **Diary 4** | Monday quick soup/burgers; Friday prawn salad + prepare-ahead for drinks; Saturday cinema quick lunch; four-cheese shop video |
-| **Follow-up 2** | Monday deli wraps; morning freezer check; Heroes/Celebrations for sailing; large cheese block tradeoff; leftover planning for husband |
-| **Home visit (Step 7 fieldwork)** | Waitrose shop together; Yeo Valley yoghurt lids; children’s water bottles; garden bottle irrigation; bread-bag drawer |
+
+| Earlier material                  | What Cath goes back to                                                                                                                                                                                       |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Interview 1**                   | Green Party identity, wildlife gardening, soft-plastics pantry bag, Waitrose vs Aldi/Tesco split, Sunday meal planning, roast-chicken leftover chain, garden reuse of trays/pots, summer vs winter packaging |
+| **Diary 1–2**                     | Weekly Waitrose shops, Charlie Bigham ready meals, soft-plastic film accumulation, London day out, gardening + reused pots                                                                                   |
+| **Follow-up 1**                   | Microwave rice pouches in pantry and guilt about using them                                                                                                                                                  |
+| **Diary 3**                       | Bank holiday Monday feta-freezer habit; Falmouth travel; National Trust brunch packaging; M&S sandwiches; bin room; bringing soft plastics home                                                              |
+| **Diary 4**                       | Monday quick soup/burgers; Friday prawn salad + prepare-ahead for drinks; Saturday cinema quick lunch; four-cheese shop video                                                                                |
+| **Follow-up 2**                   | Monday deli wraps; morning freezer check; Heroes/Celebrations for sailing; large cheese block tradeoff; leftover planning for husband                                                                        |
+| **Home visit (Step 7 fieldwork)** | Waitrose shop together; Yeo Valley yoghurt lids; children’s water bottles; garden bottle irrigation; bread-bag drawer                                                                                        |
+
 
 Two kinds of look-back happen:
 
@@ -225,43 +238,49 @@ For a twin, the goal is **not** to reproduce whether Cath remembers "on Thursday
 
 The goal **is** to reproduce **how she behaves** when a situation arises:
 
-| Situation type | Behavioral pattern to simulate |
-| -------------- | ------------------------------ |
-| High-practice homeowner | Sort soft plastics to Tesco; rinse trays; reuse bread bags and garden trays |
-| Seasonal growing | Buy less wrapped produce in summer; satisfaction when cucumbers/tomatoes ready |
-| Meal planning | Sunday folder planning; Monday quick meals; Friday treats; freezer for surplus cheese |
-| Activism | Twitter petitions; polite supermarket emails; weekend breaks from distressing news |
-| Travel occasion | Accept more packaging away from home; bring soft plastics home; prefer sit-down café cups |
-| Attitude–behavior gap | Guilt about rice pouches, yoghurt pots, travel disposables; still uses some |
-| Social evangelism | Tell friends about Tesco soft plastics; some dismiss her as "funny like that" |
+
+| Situation type          | Behavioral pattern to simulate                                                            |
+| ----------------------- | ----------------------------------------------------------------------------------------- |
+| High-practice homeowner | Sort soft plastics to Tesco; rinse trays; reuse bread bags and garden trays               |
+| Seasonal growing        | Buy less wrapped produce in summer; satisfaction when cucumbers/tomatoes ready            |
+| Meal planning           | Sunday folder planning; Monday quick meals; Friday treats; freezer for surplus cheese     |
+| Activism                | Twitter petitions; polite supermarket emails; weekend breaks from distressing news        |
+| Travel occasion         | Accept more packaging away from home; bring soft plastics home; prefer sit-down café cups |
+| Attitude–behavior gap   | Guilt about rice pouches, yoghurt pots, travel disposables; still uses some               |
+| Social evangelism       | Tell friends about Tesco soft plastics; some dismiss her as "funny like that"             |
+
 
 **Tagging logic:** Each I2 turn gets tagged with **which behavioral patterns from prior steps should activate** — not which diary photo to cite.
 
 ### Question type legend
 
-| Type | Meaning | Twin approach |
-| ---- | ------- | ------------- |
-| **B** | Behavior probe | Simulate decision logic from calibrated patterns |
-| **F** | Fact recall | Weak for twin — dates, brands, specific diary days |
-| **P** | Photo elicitation | Needs photo/video context OR generalize to food-type behavior |
-| **C** | Clarification / follow-up | Continues prior turn; inherits parent tags |
-| **R** | Reflexive look-back | Interviewer names prior step; twin should **re-express known patterns** |
+
+| Type  | Meaning                   | Twin approach                                                           |
+| ----- | ------------------------- | ----------------------------------------------------------------------- |
+| **B** | Behavior probe            | Simulate decision logic from calibrated patterns                        |
+| **F** | Fact recall               | Weak for twin — dates, brands, specific diary days                      |
+| **P** | Photo elicitation         | Needs photo/video context OR generalize to food-type behavior           |
+| **C** | Clarification / follow-up | Continues prior turn; inherits parent tags                              |
+| **R** | Reflexive look-back       | Interviewer names prior step; twin should **re-express known patterns** |
+
 
 ### Behavioral pattern library (from prior steps)
 
-| Pattern ID | Source | What to simulate |
-| ---------- | ------ | ---------------- |
-| `identity_green` | I1, I2 | Green Party member; lifelong environmental values; distress at climate harm |
-| `garden_grow` | I1, D3, I2 | Home growing reduces wrapped produce; seasonal split; wildlife-friendly garden |
-| `meal_plan` | I1, FU2, D4 | Sunday planning; leftovers for husband; whole-food from-scratch cooking |
-| `occasion_monday` | FU2, D4 | Quick Monday meals vs weekend special food |
-| `occasion_travel` | D3, I2 | Falmouth / away-from-home packaging concessions; bring soft plastics home |
-| `recycling_high` | I1, D2 | Soft-plastics pantry bag; compost sacks; heavy sorting; rinse before recycle |
-| `reuse_garden` | I1, I2 | Trays/pots/yoghurt pots/bread bags/water bottles reused until discarded |
-| `attgap_plastic` | FU1, FU2, I2 | Rice pouch guilt; celebration tins; travel packaging; yoghurt volume |
-| `pricing_split` | I1 | Waitrose on foot vs Aldi/Tesco by car; Yeo Valley vs Aldi yoghurt |
-| `foodwaste_chain` | I1, FU2 | Roast chicken stretched; feta frozen; meal planning prevents waste |
-| `activism_social` | I2 | Twitter supermarket messaging; petitions; polite campaigning letters |
+
+| Pattern ID        | Source       | What to simulate                                                               |
+| ----------------- | ------------ | ------------------------------------------------------------------------------ |
+| `identity_green`  | I1, I2       | Green Party member; lifelong environmental values; distress at climate harm    |
+| `garden_grow`     | I1, D3, I2   | Home growing reduces wrapped produce; seasonal split; wildlife-friendly garden |
+| `meal_plan`       | I1, FU2, D4  | Sunday planning; leftovers for husband; whole-food from-scratch cooking        |
+| `occasion_monday` | FU2, D4      | Quick Monday meals vs weekend special food                                     |
+| `occasion_travel` | D3, I2       | Falmouth / away-from-home packaging concessions; bring soft plastics home      |
+| `recycling_high`  | I1, D2       | Soft-plastics pantry bag; compost sacks; heavy sorting; rinse before recycle   |
+| `reuse_garden`    | I1, I2       | Trays/pots/yoghurt pots/bread bags/water bottles reused until discarded        |
+| `attgap_plastic`  | FU1, FU2, I2 | Rice pouch guilt; celebration tins; travel packaging; yoghurt volume           |
+| `pricing_split`   | I1           | Waitrose on foot vs Aldi/Tesco by car; Yeo Valley vs Aldi yoghurt              |
+| `foodwaste_chain` | I1, FU2      | Roast chicken stretched; feta frozen; meal planning prevents waste             |
+| `activism_social` | I2           | Twitter supermarket messaging; petitions; polite campaigning letters           |
+
 
 ### Full transcript: 69 tagged turns in 9 conversational arcs
 
@@ -275,147 +294,167 @@ Each turn has three question layers:
 
 **Arc summary (paraphrased):** Parents' wildlife gardening; Twitter campaigning; stepping back on holidays; travel packaging concessions in Falmouth.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 1 | R+B | Going back to Interview 1, why are you anti-pesticide and pro wildlife gardening? | Just to begin with then, so going back to your first interview, there was one point when we ... | `identity_green`, `garden_grow` |
-| 2 | B | Do you also campaign on Twitter about plastic and food packaging? | Ok. And within this, when we were talking about wildlife gardening you also mentioned that y... | `activism_social`, `identity_green` |
-| 3 | B | What do you mean by taking a break from environmental pressure on weekends and bank holidays? | Yeah. And with you just mention there in terms of like on holidays and weekends, that’s your... | `activism_social`, `occasion_travel` |
-| 4 | B | Does taking a step back from Twitter also extend to packaging choices when travelling? | Yeah definitely. And I was also wondering, just on that as well, so when you say take a step... | `occasion_travel`, `attgap_plastic` |
+
+| #                | Type | Paraphrased question                                                                          | Verbatim turn                                                                                   | Behavioral patterns                  |
+| ---------------- | ---- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 1                | R+B  | Going back to Interview 1, why are you anti-pesticide and pro wildlife gardening?             | Just to begin with then, so going back to your first interview, there was one point when we ... | `identity_green`, `garden_grow`      |
+| 2                | B    | Do you also campaign on Twitter about plastic and food packaging?                             | Ok. And within this, when we were talking about wildlife gardening you also mentioned that y... | `activism_social`, `identity_green`  |
+| 3                | B    | What do you mean by taking a break from environmental pressure on weekends and bank holidays? | Yeah. And with you just mention there in terms of like on holidays and weekends, that’s your... | `activism_social`, `occasion_travel` |
+| 4 - CAN SIMULATE | B    | Does taking a step back from Twitter also extend to packaging choices when travelling?        | Yeah definitely. And I was also wondering, just on that as well, so when you say take a step... | `occasion_travel`, `attgap_plastic`  |
+
 
 #### Arc B: Yoghurt pots, DIY limits & environmental distress (turns 5–9)
 
 **Arc summary (paraphrased):** Yoghurt pot reuse; guilt about not making bread/yoghurt; deep feelings on climate; comfort break.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 5 | R+B | You reuse yoghurt pots for garden labels — why don't you make your own bread, cakes, or yoghurt? | Ok. Just going back to your interview then. So this is later on, so there was a point at whi... | `reuse_garden`, `attgap_plastic`, `garden_grow` |
-| 6 | C | When you say you make it difficult, do you mean making bread and cakes yourself? | So when you say make it quite difficult, are you referring here to making the bread and maki... | (inherits 5) |
-| 7 | B | Can you say more about how deeply you feel about environmental issues? | Yeah. And also on maybe the same subject in terms of what we’ve been talking about around en... | `identity_green`, `attgap_plastic` |
-| 8 | C | I don't want you to get too upset — shall we pause this line of questioning? | I know. We won’t carry on. I don’t want you to get too upset so | (comfort — skip simulation) |
-| 9 | C | Would you like a five-minute comfort break before we continue? | Before we carry on do you want to take a five minute comfort break? | (comfort break) |
+
+| #                | Type | Paraphrased question                                                                             | Verbatim turn                                                                                   | Behavioral patterns                             |
+| ---------------- | ---- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 5 - CAN SIMULATE | R+B  | You reuse yoghurt pots for garden labels — why don't you make your own bread, cakes, or yoghurt? | Ok. Just going back to your interview then. So this is later on, so there was a point at whi... | `reuse_garden`, `attgap_plastic`, `garden_grow` |
+| 6                | C    | When you say you make it difficult, do you mean making bread and cakes yourself?                 | So when you say make it quite difficult, are you referring here to making the bread and maki... | (inherits 5)                                    |
+| 7 - CAN SIMULATE | B    | Can you say more about how deeply you feel about environmental issues?                           | Yeah. And also on maybe the same subject in terms of what we’ve been talking about around en... | `identity_green`, `attgap_plastic`              |
+| 8                | C    | I don't want you to get too upset — shall we pause this line of questioning?                     | I know. We won’t carry on. I don’t want you to get too upset so                                 | (comfort — skip simulation)                     |
+| 9                | C    | Would you like a five-minute comfort break before we continue?                                   | Before we carry on do you want to take a five minute comfort break?                             | (comfort break)                                 |
+
 
 #### Arc C: Packaging materials: glass, cardboard vs plastic (turns 10–11)
 
 **Arc summary (paraphrased):** Compares glass/cardboard/paper to plastic; confusion about which is truly better.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 10 | B | How do cardboard, glass, and paper packaging compare to plastic for you? | Yeah. Ok, I’ll move on then, I’ll change the subject. So I wanted to ask you then about the ... | `recycling_high`, `attgap_plastic` |
-| 11 | B | Why do you sometimes steer toward cardboard rather than plastic or paper? | Yeah. And for you then what, why is it that you sometimes maybe steer towards cardboard then... | `recycling_high`, `attgap_plastic` |
+
+| #                 | Type | Paraphrased question                                                      | Verbatim turn                                                                                   | Behavioral patterns                |
+| ----------------- | ---- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------- |
+| 10 - CAN SIMULATE | B    | How do cardboard, glass, and paper packaging compare to plastic for you?  | Yeah. Ok, I’ll move on then, I’ll change the subject. So I wanted to ask you then about the ... | `recycling_high`, `attgap_plastic` |
+| 11 - CAN SIMULATE | B    | Why do you sometimes steer toward cardboard rather than plastic or paper? | Yeah. And for you then what, why is it that you sometimes maybe steer towards cardboard then... | `recycling_high`, `attgap_plastic` |
+
 
 #### Arc D: Soft plastics, compost bags & social evangelism (turns 12–14)
 
 **Arc summary (paraphrased):** Soft plastics to Tesco; compost sacks; peat compost; telling friends about recycling.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 12 | B | How do you handle soft plastics and compost bags that go to Tesco? | Ok. Just moving on to the next point now then. So this is more about actually the soft plast... | `recycling_high`, `reuse_garden` |
-| 13 | C | That's good — shall we continue? | Yeah that’s good. | (inherits 12) |
-| 14 | B | Do you try to tell friends and family about peat-free compost and plastic packaging? | And actually just on that point you mentioned there as well in terms of you see family and f... | `activism_social`, `recycling_high` |
+
+| #                 | Type | Paraphrased question                                                                 | Verbatim turn                                                                                   | Behavioral patterns                 |
+| ----------------- | ---- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 12                | B    | How do you handle soft plastics and compost bags that go to Tesco?                   | Ok. Just moving on to the next point now then. So this is more about actually the soft plast... | `recycling_high`, `reuse_garden`    |
+| 13                | C    | That's good — shall we continue?                                                     | Yeah that’s good.                                                                               | (inherits 12)                       |
+| 14 - CAN SIMULATE | B    | Do you try to tell friends and family about peat-free compost and plastic packaging? | And actually just on that point you mentioned there as well in terms of you see family and f... | `activism_social`, `recycling_high` |
+
 
 #### Arc E: Nutrition, whole foods & meal planning (turns 15–16)
 
 **Arc summary (paraphrased):** Nutrition interest; ultra-processed foods; Sunday meal planning from scratch.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 15 | B | You once considered a career in nutrition — can you tell me about that interest? | Ok. I just wanted to move on a little bit now to talk about your interest in nutrition. So I... | `meal_plan`, NEW nutrition lens |
-| 16 | B | How do you apply your nutrition knowledge in everyday meal planning? | Yeah and actually my question was going to be, I mean you mentioned there how useful it is f... | `meal_plan`, `foodwaste_chain` |
+
+| #   | Type | Paraphrased question                                                             | Verbatim turn                                                                                   | Behavioral patterns             |
+| --- | ---- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------- |
+| 15  | B    | You once considered a career in nutrition — can you tell me about that interest? | Ok. I just wanted to move on a little bit now to talk about your interest in nutrition. So I... | `meal_plan`, NEW nutrition lens |
+| 16  | B    | How do you apply your nutrition knowledge in everyday meal planning?             | Yeah and actually my question was going to be, I mean you mentioned there how useful it is f... | `meal_plan`, `foodwaste_chain`  |
+
 
 #### Arc F: Reuse, Yeo Valley yoghurt & household recycling (turns 17–25)
 
 **Arc summary (paraphrased):** Seedling plastic junk; sturdy vs flimsy plastic; Yeo Valley lids; Greenpeace count; husband as supporter.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 17 | R+P | In your week-one kitchen video, what plastic did you reuse for seedlings? | Yeah, ok. I just wanted to go back to one of your earlier videos actually. I think this was ... | `reuse_garden`, `recycling_high` |
-| 18 | B | Do certain plastics need a 'junk' quality to be worth reusing in the garden? | Yeah. And I was just curious as well if, I mean do you think that certain types of plastic l... | `reuse_garden` |
-| 19 | R+B | When we shopped at Waitrose together, what changed with the Yeo Valley yoghurt packaging? | Ok. Right one thing as well that I wanted to ask you about as well, so when I came to visit ... | `reuse_garden`, `pricing_split`, `attgap_plastic` |
-| 20 | B | Is the Yeo Valley lid/token offer still running at Waitrose? | Yeah. So I mean these yoghurt pot lids then, is this something that they have at the moment ... | `reuse_garden`, `pricing_split` |
-| 21 | C | Thank you for explaining the Yeo Valley packaging change. | Ok, thank you for letting me know about that. | (inherits 19) |
-| 22 | R | You had kept Yeo Valley lids as plant-pot stands — tell me more. | Yeah. So I mean you mentioned as well that you had already kept some of these lids because y... | `reuse_garden` |
-| 23 | C | So you've brought those lids back into the kitchen for reuse? | Right, I see. So you’ve brought these back into the kitchen now and are now reusing them in ... | (inherits 22) |
-| 24 | B | How did you get on with Greenpeace's Big Plastic Count? | I also wanted to ask you how you got on with Greenpeace’s Big Plastic Count as well. | `recycling_high`, `identity_green` |
-| 25 | B | What is your husband's view on recycling and reuse compared with yours? | Yeah. So I mean as well I wanted to ask you. So we’re talking a lot about your recycling hab... | `recycling_high`, NEW household_driver |
+
+| #   | Type | Paraphrased question                                                                      | Verbatim turn                                                                                   | Behavioral patterns                               |
+| --- | ---- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 17  | R+P  | In your week-one kitchen video, what plastic did you reuse for seedlings?                 | Yeah, ok. I just wanted to go back to one of your earlier videos actually. I think this was ... | `reuse_garden`, `recycling_high`                  |
+| 18  | B    | Do certain plastics need a 'junk' quality to be worth reusing in the garden?              | Yeah. And I was just curious as well if, I mean do you think that certain types of plastic l... | `reuse_garden`                                    |
+| 19  | R+B  | When we shopped at Waitrose together, what changed with the Yeo Valley yoghurt packaging? | Ok. Right one thing as well that I wanted to ask you about as well, so when I came to visit ... | `reuse_garden`, `pricing_split`, `attgap_plastic` |
+| 20  | B    | Is the Yeo Valley lid/token offer still running at Waitrose?                              | Yeah. So I mean these yoghurt pot lids then, is this something that they have at the moment ... | `reuse_garden`, `pricing_split`                   |
+| 21  | C    | Thank you for explaining the Yeo Valley packaging change.                                 | Ok, thank you for letting me know about that.                                                   | (inherits 19)                                     |
+| 22  | R    | You had kept Yeo Valley lids as plant-pot stands — tell me more.                          | Yeah. So I mean you mentioned as well that you had already kept some of these lids because y... | `reuse_garden`                                    |
+| 23  | C    | So you've brought those lids back into the kitchen for reuse?                             | Right, I see. So you’ve brought these back into the kitchen now and are now reusing them in ... | (inherits 22)                                     |
+| 24  | B    | How did you get on with Greenpeace's Big Plastic Count?                                   | I also wanted to ask you how you got on with Greenpeace’s Big Plastic Count as well.            | `recycling_high`, `identity_green`                |
+| 25  | B    | What is your husband's view on recycling and reuse compared with yours?                   | Yeah. So I mean as well I wanted to ask you. So we’re talking a lot about your recycling hab... | `recycling_high`, NEW household_driver            |
+
 
 #### Arc G: Food waste vs plastic, media & Charlie Bigham (turns 26–34)
 
 **Arc summary (paraphrased):** London trip ready meal; food waste vs plastic tradeoff; documentary distress; transition to diaries.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 26 | C | Does he support your habits in practice? | Yeah definitely | (inherits 25) |
-| 27 | R | When you went to London for the day, what happened to packaging at home? | And as well, I was just curious then what would happen if you, so I think earlier on in the ... | `occasion_travel`, `meal_plan` |
-| 28 | R+B | If you leave a Charlie Bigham meal for your husband, what happens to the packaging? | Yes and you mentioned leaving a meal for your husband. I think it was a Charlie Bigham meal.... | `recycling_high`, `meal_plan`, `attgap_plastic` |
-| 29 | B | How does your meal planning relate to both food waste and plastic waste? | Ok, so just moving on a little bit now. I wondered if you could tell me, so we’ve talked a l... | `foodwaste_chain`, `meal_plan` |
-| 30 | B | On a scale, which feels worse environmentally: food waste or plastic waste? | And I was just curious then for you, if we maybe put them both on a scale what do you feel m... | `foodwaste_chain`, `attgap_plastic` |
-| 31 | B | How do you respond to documentaries and media about plastic pollution? | Ok. Just on the subject as well of maybe awareness about plastic pollution. So there have be... | `identity_green`, `activism_social` |
-| 32 | C | Does avoiding distressing documentaries work for you? | Yes, no absolutely. | (inherits 31) |
-| 33 | R | Shall we take a break before moving on to diary entries? | Yeah, ok. Right well that’s all of my kind of initial questions there. So I was going to mov... | (transition to diaries) |
-| 34 | C | You've been talking for about an hour — are you still ok to continue? | Oh no I’m absolutely fine, I just wanted to double check with you because its been about an ... | (comfort check) |
+
+| #                 | Type | Paraphrased question                                                                | Verbatim turn                                                                                   | Behavioral patterns                             |
+| ----------------- | ---- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 26                | C    | Does he support your habits in practice?                                            | Yeah definitely                                                                                 | (inherits 25)                                   |
+| 27                | R    | When you went to London for the day, what happened to packaging at home?            | And as well, I was just curious then what would happen if you, so I think earlier on in the ... | `occasion_travel`, `meal_plan`                  |
+| 28                | R+B  | If you leave a Charlie Bigham meal for your husband, what happens to the packaging? | Yes and you mentioned leaving a meal for your husband. I think it was a Charlie Bigham meal.... | `recycling_high`, `meal_plan`, `attgap_plastic` |
+| 29 - CAN SIMULATE | B    | How does your meal planning relate to both food waste and plastic waste?            | Ok, so just moving on a little bit now. I wondered if you could tell me, so we’ve talked a l... | `foodwaste_chain`, `meal_plan`                  |
+| 30 - CAN SIMULATE | B    | On a scale, which feels worse environmentally: food waste or plastic waste?         | And I was just curious then for you, if we maybe put them both on a scale what do you feel m... | `foodwaste_chain`, `attgap_plastic`             |
+| 31 - CAN SIMULATE | B    | How do you respond to documentaries and media about plastic pollution?              | Ok. Just on the subject as well of maybe awareness about plastic pollution. So there have be... | `identity_green`, `activism_social`             |
+| 32                | C    | Does avoiding distressing documentaries work for you?                               | Yes, no absolutely.                                                                             | (inherits 31)                                   |
+| 33                | R    | Shall we take a break before moving on to diary entries?                            | Yeah, ok. Right well that’s all of my kind of initial questions there. So I was going to mov... | (transition to diaries)                         |
+| 34                | C    | You've been talking for about an hour — are you still ok to continue?               | Oh no I’m absolutely fine, I just wanted to double check with you because its been about an ... | (comfort check)                                 |
+
 
 #### Arc H: Week 3 diary: bank holiday & Falmouth travel (turns 35–60)
 
 **Arc summary (paraphrased):** Soft plastics; Falmouth bin room; bread bag reuse; feta freezer; National Trust brunch; water bottles; M&S sandwiches.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 35 | R | Let's move to week three diary entries — the week I visited, starting the 9th? | Ok, good. Well just moving on to your, so this is the week three diary entry. So this was th... | `occasion_travel` |
-| 36 | C | Does that week still feel recent given everything in between? | It does, yeah. It was only a couple of weeks ago but like you say I think when there’s so mu... | (inherits 35) |
-| 37 | C | I remember you saying that. | I remember you saying. | (inherits 35) |
-| 38 | R | Actually week three was the week before my visit — the bank holiday week commencing the 2nd? | That’s ok. Actually I’ve just checked now, so it was the, it was week three, so the week I c... | `occasion_travel` |
-| 39 | C | So that's the bank holiday weekend week commencing 2nd May? | Yeah so it’s the week commencing 2nd, so that was the bank holiday weekend. | (inherits 38) |
-| 40 | R+B | In that week you were away for the bank holiday — what soft plastics did you set aside? | That’s it. So within your week three diary entry, so the May bank holiday you mentioned, so ... | `recycling_high`, `occasion_travel` |
-| 41 | B | Tell me about the Falmouth apartment bin room and its recycling facilities. | Just focused on this bin room that you’re talking about there where they had specific bins t... | `occasion_travel`, `recycling_high` |
-| 42 | C | That's interesting — I hadn't heard of that setup before. | Yeah. That’s interesting actually, I’ve not heard of that before. | (inherits 41) |
-| 43 | R+B | Before you travelled, you colour-coded packaging destinations — why did some bread bags go to reuse? | Great, ok. Just on this week as well, so you mention, I think this was perhaps before you we... | `reuse_garden`, `recycling_high` |
-| 44 | C | What is the difference between bread bags you reuse versus recycle? | Yeah, no that’s ok. I was just curious as to the difference there because I was aware that y... | (inherits 43) |
-| 45 | R | On Monday 2nd bank holiday, before you went away — tell me about that day. | So you also mentioned, on this particular day, so this was Monday 2nd as well, so still part... | `occasion_monday`, `foodwaste_chain` |
-| 46 | B | You had feta for lunch and kept half in the freezer — how does that work? | Yeah and you mention having feta for lunch on this day and you also state here that half is ... | `foodwaste_chain`, `meal_plan` |
-| 47 | R | When you were away, you hand-wrote diary entries — tell me about that. | Yeah, ok. So this, so just moving on now to when you were away, so you did mention in this d... | `occasion_travel` |
-| 48 | P | Tell me about National Trust brunch packaging waste from your photos. | And shared that with me. And you mentioned eating brunch at the National Trust site and you ... | `occasion_travel`, `attgap_plastic` |
-| 49 | B | What did you think of vegetable-protein knives and milk containers? | No. Ok and before I move on I just wanted to ask you as well, so you mentioned, you actually... | `occasion_travel`, `attgap_plastic` |
-| 50 | C | Let me know if you remember more about those disposables. | Let me know if you do. | (inherits 49) |
-| 51 | R | On Thursday 5th May away, you ate hot cross buns — what happened to the film bag? | Ok, so just moving on now to the Thursday, 5th May. So this was whilst you were away and you... | `reuse_garden`, `occasion_travel` |
-| 52 | R | I didn't expect the hot-cross-bun bag to be that type of reuse. | Fabulous. To be honest when you mentioned in your diary entry that it was a film bag that wo... | `reuse_garden`, `occasion_travel` |
-| 53 | R | Your children bought water bottles on Thursday — tell me about those. | I also wanted to ask you, you mentioned as well in this particular entry as well, I think th... | `occasion_travel`, `attgap_plastic` |
-| 54 | R+P | We touched on this when I visited — you had bottles in the kitchen. | And this is something that we touched upon I think when I visited as well. I think you had t... | `reuse_garden`, `occasion_travel` |
-| 55 | B | You cut a bottle in half for raised-bed irrigation — tell me more. | Yes because I think I remember whilst I was there you had, one of your raised beds outside h... | `reuse_garden` |
-| 56 | R+B | On Sunday you brought crisp bags, bread bags, and foil home — why? | So I wanted to ask you as well, so this is moving on to the Sunday now. So you mention again... | `occasion_travel`, `recycling_high` |
-| 57 | R+B | Tell me about the M&S service-station sandwiches you brought home. | Ok. And yeah I wanted to speak to you about the Marks & Spencer’s sandwiches as well that yo... | `occasion_travel`, `attgap_plastic`, `pricing_split` |
-| 58 | B | Why did you try to separate the M&S sandwich box plastic lining? | No and I was wondering why is it as well that you did, because you tried to separate I think... | `recycling_high`, `attgap_plastic` |
-| 59 | C | The box said recyclable — were you unsure about the lining? | Yeah, no that’s ok, I was just curious there. Because it did specify box recycling on the pa... | (inherits 58) |
-| 60 | C | Was that sandwich packaging from Marks & Spencer? | Was that from Marks | (inherits 57) |
+
+| #   | Type | Paraphrased question                                                                                 | Verbatim turn                                                                                   | Behavioral patterns                                  |
+| --- | ---- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| 35  | R    | Let's move to week three diary entries — the week I visited, starting the 9th?                       | Ok, good. Well just moving on to your, so this is the week three diary entry. So this was th... | `occasion_travel`                                    |
+| 36  | C    | Does that week still feel recent given everything in between?                                        | It does, yeah. It was only a couple of weeks ago but like you say I think when there’s so mu... | (inherits 35)                                        |
+| 37  | C    | I remember you saying that.                                                                          | I remember you saying.                                                                          | (inherits 35)                                        |
+| 38  | R    | Actually week three was the week before my visit — the bank holiday week commencing the 2nd?         | That’s ok. Actually I’ve just checked now, so it was the, it was week three, so the week I c... | `occasion_travel`                                    |
+| 39  | C    | So that's the bank holiday weekend week commencing 2nd May?                                          | Yeah so it’s the week commencing 2nd, so that was the bank holiday weekend.                     | (inherits 38)                                        |
+| 40  | R+B  | In that week you were away for the bank holiday — what soft plastics did you set aside?              | That’s it. So within your week three diary entry, so the May bank holiday you mentioned, so ... | `recycling_high`, `occasion_travel`                  |
+| 41  | B    | Tell me about the Falmouth apartment bin room and its recycling facilities.                          | Just focused on this bin room that you’re talking about there where they had specific bins t... | `occasion_travel`, `recycling_high`                  |
+| 42  | C    | That's interesting — I hadn't heard of that setup before.                                            | Yeah. That’s interesting actually, I’ve not heard of that before.                               | (inherits 41)                                        |
+| 43  | R+B  | Before you travelled, you colour-coded packaging destinations — why did some bread bags go to reuse? | Great, ok. Just on this week as well, so you mention, I think this was perhaps before you we... | `reuse_garden`, `recycling_high`                     |
+| 44  | C    | What is the difference between bread bags you reuse versus recycle?                                  | Yeah, no that’s ok. I was just curious as to the difference there because I was aware that y... | (inherits 43)                                        |
+| 45  | R    | On Monday 2nd bank holiday, before you went away — tell me about that day.                           | So you also mentioned, on this particular day, so this was Monday 2nd as well, so still part... | `occasion_monday`, `foodwaste_chain`                 |
+| 46  | B    | You had feta for lunch and kept half in the freezer — how does that work?                            | Yeah and you mention having feta for lunch on this day and you also state here that half is ... | `foodwaste_chain`, `meal_plan`                       |
+| 47  | R    | When you were away, you hand-wrote diary entries — tell me about that.                               | Yeah, ok. So this, so just moving on now to when you were away, so you did mention in this d... | `occasion_travel`                                    |
+| 48  | P    | Tell me about National Trust brunch packaging waste from your photos.                                | And shared that with me. And you mentioned eating brunch at the National Trust site and you ... | `occasion_travel`, `attgap_plastic`                  |
+| 49  | B    | What did you think of vegetable-protein knives and milk containers?                                  | No. Ok and before I move on I just wanted to ask you as well, so you mentioned, you actually... | `occasion_travel`, `attgap_plastic`                  |
+| 50  | C    | Let me know if you remember more about those disposables.                                            | Let me know if you do.                                                                          | (inherits 49)                                        |
+| 51  | R    | On Thursday 5th May away, you ate hot cross buns — what happened to the film bag?                    | Ok, so just moving on now to the Thursday, 5th May. So this was whilst you were away and you... | `reuse_garden`, `occasion_travel`                    |
+| 52  | R    | I didn't expect the hot-cross-bun bag to be that type of reuse.                                      | Fabulous. To be honest when you mentioned in your diary entry that it was a film bag that wo... | `reuse_garden`, `occasion_travel`                    |
+| 53  | R    | Your children bought water bottles on Thursday — tell me about those.                                | I also wanted to ask you, you mentioned as well in this particular entry as well, I think th... | `occasion_travel`, `attgap_plastic`                  |
+| 54  | R+P  | We touched on this when I visited — you had bottles in the kitchen.                                  | And this is something that we touched upon I think when I visited as well. I think you had t... | `reuse_garden`, `occasion_travel`                    |
+| 55  | B    | You cut a bottle in half for raised-bed irrigation — tell me more.                                   | Yes because I think I remember whilst I was there you had, one of your raised beds outside h... | `reuse_garden`                                       |
+| 56  | R+B  | On Sunday you brought crisp bags, bread bags, and foil home — why?                                   | So I wanted to ask you as well, so this is moving on to the Sunday now. So you mention again... | `occasion_travel`, `recycling_high`                  |
+| 57  | R+B  | Tell me about the M&S service-station sandwiches you brought home.                                   | Ok. And yeah I wanted to speak to you about the Marks & Spencer’s sandwiches as well that yo... | `occasion_travel`, `attgap_plastic`, `pricing_split` |
+| 58  | B    | Why did you try to separate the M&S sandwich box plastic lining?                                     | No and I was wondering why is it as well that you did, because you tried to separate I think... | `recycling_high`, `attgap_plastic`                   |
+| 59  | C    | The box said recyclable — were you unsure about the lining?                                          | Yeah, no that’s ok, I was just curious there. Because it did specify box recycling on the pa... | (inherits 58)                                        |
+| 60  | C    | Was that sandwich packaging from Marks & Spencer?                                                    | Was that from Marks                                                                             | (inherits 57)                                        |
+
 
 #### Arc I: Week 4 diary: Friday treats & cheese shop (turns 61–69)
 
 **Arc summary (paraphrased):** Prawn Friday salad; prepare-ahead for drinks; quick Saturday lunch; four cheeses video.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 61 | R+P | In week four you planned prawn and avocado salad as a Friday treat — tell me more. | Good. Ok, right I just have a couple of more questions left. So this is based on your week f... | `occasion_monday`, `meal_plan`, `foodwaste_chain` |
-| 62 | R | What did you mean by preparing ahead for Friday evening drinks? | You also mentioned within this entry, so you talk about preparing the meal, you mentioned “a... | `occasion_monday`, NEW friday_ritual |
-| 63 | C | Eurovision isn't too far away now. | Yeah not too long now. | (inherits 62) |
-| 64 | R | On Saturday 14th you had a quick lunch before cinema — tell me more. | I also wanted to ask about 14th as well. So Saturday 14th. So you mentioned | `occasion_travel` |
-| 65 | B | Why is having a quick, healthy meal significant before going out? | I see, I was going to ask that you had like feta, tomatoes and I think artichokes and well a... | `occasion_travel`, `meal_plan` |
-| 66 | P | In your shop video you bought four different cheeses — why so many? | Oh good. I just have a question on the video that you shared with me as well. So this was a ... | `pricing_split`, `attgap_plastic`, `meal_plan` |
-| 67 | C | That's fantastic! | That’s fantastic! | (inherits 66) |
-| 68 | C | You're eating some of your favourite foods while we talk. | Whilst eating some of your favourite foods, its | (inherits 66) |
-| 69 | C | That's all my questions — end of interview. | Well that’s all of my questions there. End of interview | (closing) |
+
+| #   | Type | Paraphrased question                                                               | Verbatim turn                                                                                   | Behavioral patterns                               |
+| --- | ---- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 61  | R+P  | In week four you planned prawn and avocado salad as a Friday treat — tell me more. | Good. Ok, right I just have a couple of more questions left. So this is based on your week f... | `occasion_monday`, `meal_plan`, `foodwaste_chain` |
+| 62  | R    | What did you mean by preparing ahead for Friday evening drinks?                    | You also mentioned within this entry, so you talk about preparing the meal, you mentioned “a... | `occasion_monday`, NEW friday_ritual              |
+| 63  | C    | Eurovision isn't too far away now.                                                 | Yeah not too long now.                                                                          | (inherits 62)                                     |
+| 64  | R    | On Saturday 14th you had a quick lunch before cinema — tell me more.               | I also wanted to ask about 14th as well. So Saturday 14th. So you mentioned                     | `occasion_travel`                                 |
+| 65  | B    | Why is having a quick, healthy meal significant before going out?                  | I see, I was going to ask that you had like feta, tomatoes and I think artichokes and well a... | `occasion_travel`, `meal_plan`                    |
+| 66  | P    | In your shop video you bought four different cheeses — why so many?                | Oh good. I just have a question on the video that you shared with me as well. So this was a ... | `pricing_split`, `attgap_plastic`, `meal_plan`    |
+| 67  | C    | That's fantastic!                                                                  | That’s fantastic!                                                                               | (inherits 66)                                     |
+| 68  | C    | You're eating some of your favourite foods while we talk.                          | Whilst eating some of your favourite foods, its                                                 | (inherits 66)                                     |
+| 69  | C    | That's all my questions — end of interview.                                        | Well that’s all of my questions there. End of interview                                         | (closing)                                         |
+
 
 ### Summary: what the twin loads for each arc
 
-| Arc | Twin loads | Weak for simulation |
-| --- | ---------- | ------------------- |
-| A | Green identity, live-and-let-live garden, Twitter activism, travel packaging guilt | — |
-| B | Reuse guilt loop, DIY limits, climate distress | Comfort-break turns |
-| C | Material preference hierarchy (none > cardboard/glass > plastic), confusion | — |
-| D | Soft-plastic hoarding, compost-bag schemes, social evangelism | — |
-| E | Whole-food meal planning, ultra-processed avoidance | — |
-| F | Garden reuse hierarchy, Yeo Valley tradeoff, husband as supporter | Token survey detail |
-| G | Food-waste vs plastic tradeoff, media avoidance, Charlie Bigham treat logic | — |
-| H | Falmouth travel behaviors, bin room, bread-bag types, National Trust mortification | Specific dates/diary day IDs |
-| I | Friday ritual, quick pre-cinema meals, cheese/nutrition tension | Eurovision detail |
+
+| Arc | Twin loads                                                                         | Weak for simulation          |
+| --- | ---------------------------------------------------------------------------------- | ---------------------------- |
+| A   | Green identity, live-and-let-live garden, Twitter activism, travel packaging guilt | —                            |
+| B   | Reuse guilt loop, DIY limits, climate distress                                     | Comfort-break turns          |
+| C   | Material preference hierarchy (none > cardboard/glass > plastic), confusion        | —                            |
+| D   | Soft-plastic hoarding, compost-bag schemes, social evangelism                      | —                            |
+| E   | Whole-food meal planning, ultra-processed avoidance                                | —                            |
+| F   | Garden reuse hierarchy, Yeo Valley tradeoff, husband as supporter                  | Token survey detail          |
+| G   | Food-waste vs plastic tradeoff, media avoidance, Charlie Bigham treat logic        | —                            |
+| H   | Falmouth travel behaviors, bin room, bread-bag types, National Trust mortification | Specific dates/diary day IDs |
+| I   | Friday ritual, quick pre-cinema meals, cheese/nutrition tension                    | Eurovision detail            |
+
 
 ### Turns that are weak for behavior simulation
 
@@ -426,6 +465,7 @@ Each turn has three question layers:
 ### How this differs from the 20-question summary
 
 P0 lists ~20 paraphrased I2 questions grouped by theme (gardening, materials, travel, diary callbacks). The transcript has **69 substantive turns** because the interviewer probes follow-ups (bread-bag types, Yeo Valley lid survey, National Trust compostable cutlery scepticism, feta-freezer habit, M&S mixed-material sandwich). A twin must handle the **conversation thread**, not just the headline question.
+
 ## Interview 2 transcript (full)
 
 **A · #1 · Arc A:** Just to begin with then, so going back to your first interview, there was one point when we were talking about wildlife gardening and I’ll just read out the quote here. So you mention “I’m absolutely mad keen on wildlife gardening, so for me its all about the different bees and butterflies and we’ve got a resident hedgehog. So there’s no, I don’t put any kinds of pesticides, herbicides, nothing like that. I’m really anti things like that.” And I wondered if you could tell me a little bit more about that in terms of, well perhaps maybe why you are an anti pesticide and herbicides.

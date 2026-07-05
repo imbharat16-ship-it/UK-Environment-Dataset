@@ -7,11 +7,20 @@
 
 ### Interview 2: Can simulate (selected turns)
 
-_Add manually after tagging turns in the arc tables below (append ` · CAN SIMULATE` to turn numbers). Copy type, paraphrase, and patterns from tagged rows._
+Questions marked **CAN SIMULATE** in the arc tables and full transcript below. Type uses full names (not encoded letters).
 
-| # | Type | Paraphrased question | Behavioral patterns |
-|---|------|---------------------|---------------------|
-
+| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
+|---|------|---------------------|---------------|---------------------|
+| 50 | Behavior probe | Is health another reason you avoid reusing certain containers? | You also mentioned health. Is there a reason there too? | `reuse_containers`, `identity_veg` |
+| 51 | Behavior probe | What health concerns do you have about reusing plastic food containers? | You feel as though there's some possible health concerns about reusing plastic food containers | `reuse_containers`, `identity_veg` |
+| 64 | Behavior probe | What are your thoughts on the environmental implications of plastic food packaging? | More generally about your thoughts on the implications of plastic, maybe in terms of food packaging | `attgap_plastic`, `mbc_work` |
+| 65 | Behavior probe | What exceptions do you make for single-use plastics in practice? | There's always exceptions in terms of using single use plastics | `attgap_plastic`, `occasion_social` |
+| 66 | Behavior probe | How do you weigh plastic pollution against other environmental issues like food waste? | We've talked a little bit about plastic… the impact of plastic… how does that compare to other environmental issues like food waste? | `attgap_plastic`, `foodwaste_chain` |
+| 67 | Behavior probe | How would you decide between packaged versus loose fresh fruit and vegetables? | How would you feel about buying say fresh fruits or vegetables… packaged versus loose? | `attgap_plastic`, `budget_student` |
+| 68 | Behavior probe | If two produce options were available, how would you choose on packaging? | How would you make a decision if there were two options available? | `attgap_plastic`, `budget_student` |
+| 85 | Behavior probe | How do you feel about eating leftovers or preheated foods? | In terms of eating leftovers or preheated foods… how do you feel about that? | `foodwaste_chain`, NEW leftover_psychology |
+| 87 | Behavior probe | How do frozen or long-stored homemade foods compare to fresh in your mind? | Foods that you make and either leave for a long period of time or freeze… how do they compare to fresh? | `foodwaste_chain`, `convenience_default` |
+| 89 | Behavior probe | How does your brain categorize foods as safe or unsafe when reheated? | The way your brain categorizes foods as safe or unsafe when reheated | `foodwaste_chain`, NEW leftover_psychology |
 
 ### Step summaries
 
@@ -140,16 +149,18 @@ _Add manually after tagging turns in the arc tables below (append ` · CAN SIMUL
 
 ### Behavioral lens summary across steps
 
-| Step | Primary lenses |
-| ---- | -------------- |
-| Interview 1 | Identity, Culture/social, Attitude-behavior gap, Pricing/value, Food waste sensitivity |
-| Diary 1 | Reuse tendency, Recycling diligence, Occasion, Culture/social |
-| Diary 2 | Culture/social, Food waste sensitivity, Reuse tendency, Pricing/value, Occasion |
-| Follow-up 1 | Occasion, Identity, Reuse tendency, Culture/social, Convenience tradeoff |
-| Diary 3 | Culture/social, Attitude-behavior gap, Occasion, Recycling diligence |
-| Diary 4 | Reuse tendency, Culture/social, Occasion, Pricing/value, Food waste sensitivity |
-| Follow-up 2 | Culture/social, Identity, Recycling diligence, Reuse tendency, Attitude-behavior gap |
+
+| Step        | Primary lenses                                                                                          |
+| ----------- | ------------------------------------------------------------------------------------------------------- |
+| Interview 1 | Identity, Culture/social, Attitude-behavior gap, Pricing/value, Food waste sensitivity                  |
+| Diary 1     | Reuse tendency, Recycling diligence, Occasion, Culture/social                                           |
+| Diary 2     | Culture/social, Food waste sensitivity, Reuse tendency, Pricing/value, Occasion                         |
+| Follow-up 1 | Occasion, Identity, Reuse tendency, Culture/social, Convenience tradeoff                                |
+| Diary 3     | Culture/social, Attitude-behavior gap, Occasion, Recycling diligence                                    |
+| Diary 4     | Reuse tendency, Culture/social, Occasion, Pricing/value, Food waste sensitivity                         |
+| Follow-up 2 | Culture/social, Identity, Recycling diligence, Reuse tendency, Attitude-behavior gap                    |
 | Interview 2 | Identity, Culture/social, Food waste sensitivity, Occasion, Convenience tradeoff, Attitude-behavior gap |
+
 
 ---
 
@@ -157,14 +168,16 @@ _Add manually after tagging turns in the arc tables below (append ` · CAN SIMUL
 
 Interview 2 is a closing conversation. The interviewer often **looks back** at what Isabella said or did earlier in the study. When she answers, she is usually pulling from one of these earlier layers:
 
-| Earlier material | What Isabella goes back to |
-| ---------------- | -------------------------- |
-| **Interview 1** | Vegetarian identity; six-person shared house; Pablo as cook; Aldi weekly shop; orange bags only; failed recycling attempts; Spain vs UK bin norms; Tupperware vs thin containers |
-| **Diary 1–2** | Breakfast wraps and bean quesadilla chain; cinema plastic cups; McDonald's packaging; party cups; post-gym shop without plastic bag; banana pancakes |
-| **Follow-up 1** | Green goddess sauce batches; clingfilm when Tupperware scarce; frozen vs fresh veg; fridge storage in original bags; cinema/party norms |
-| **Diary 3** | Gym plastic hydration bottles; MBC children's plastic debate; Greggs paper at library; quiche in glass dish with clingfilm |
-| **Diary 4** | McDonald's sauce waste lesson; frozen pizza box + inner wrap; Sainsbury's bag instead of clingfilm; castle litter-pick; Greek yogurt tub |
-| **Follow-up 2** | Aldi wheeled caddy and carrier accumulation; dirty-packaging trauma; margarine vs butter; weekly shop photo-elicitation; won't touch meat packs |
+
+| Earlier material | What Isabella goes back to                                                                                                                                                       |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Interview 1**  | Vegetarian identity; six-person shared house; Pablo as cook; Aldi weekly shop; orange bags only; failed recycling attempts; Spain vs UK bin norms; Tupperware vs thin containers |
+| **Diary 1–2**    | Breakfast wraps and bean quesadilla chain; cinema plastic cups; McDonald's packaging; party cups; post-gym shop without plastic bag; banana pancakes                             |
+| **Follow-up 1**  | Green goddess sauce batches; clingfilm when Tupperware scarce; frozen vs fresh veg; fridge storage in original bags; cinema/party norms                                          |
+| **Diary 3**      | Gym plastic hydration bottles; MBC children's plastic debate; Greggs paper at library; quiche in glass dish with clingfilm                                                       |
+| **Diary 4**      | McDonald's sauce waste lesson; frozen pizza box + inner wrap; Sainsbury's bag instead of clingfilm; castle litter-pick; Greek yogurt tub                                         |
+| **Follow-up 2**  | Aldi wheeled caddy and carrier accumulation; dirty-packaging trauma; margarine vs butter; weekly shop photo-elicitation; won't touch meat packs                                  |
+
 
 Two kinds of look-back happen:
 
@@ -230,45 +243,51 @@ For a twin, the goal is **not** to reproduce whether Isabella remembers a specif
 
 The goal **is** to reproduce **how she behaves** when a situation arises:
 
-| Situation type | Behavioral pattern to simulate |
-| -------------- | ------------------------------ |
-| Shared student house | Recycling blocked; orange bags; campus recycling workaround |
-| Spain vs UK norms | Would recycle at home in Spain; general waste here; cultural frustration |
-| Pablo-led cooking | Partner cooks; batch meals; veg/meat split versions |
-| Social occasions | Party/cinema/gym cups to general waste; doesn't ask for glass |
-| Aldi weekly shop | List planning; reusable carriers; no paid bag after gym |
-| MBC plastic debates | Professional knowledge vs household inability to recycle |
-| Food waste vs packaging | Frozen veg/pizza tradeoffs; bean leftover chain; sauce waste lesson |
+
+| Situation type          | Behavioral pattern to simulate                                           |
+| ----------------------- | ------------------------------------------------------------------------ |
+| Shared student house    | Recycling blocked; orange bags; campus recycling workaround              |
+| Spain vs UK norms       | Would recycle at home in Spain; general waste here; cultural frustration |
+| Pablo-led cooking       | Partner cooks; batch meals; veg/meat split versions                      |
+| Social occasions        | Party/cinema/gym cups to general waste; doesn't ask for glass            |
+| Aldi weekly shop        | List planning; reusable carriers; no paid bag after gym                  |
+| MBC plastic debates     | Professional knowledge vs household inability to recycle                 |
+| Food waste vs packaging | Frozen veg/pizza tradeoffs; bean leftover chain; sauce waste lesson      |
+
 
 **Tagging logic:** Each I2 turn gets tagged with **which behavioral patterns from prior steps should activate** — not which diary photo to cite.
 
 ### Question type legend
 
-| Type | Meaning | Twin approach |
-| ---- | ------- | ------------- |
-| **B** | Behavior probe | Simulate decision logic from calibrated patterns |
-| **F** | Fact recall | Weak for twin — dates, brands, specific diary days |
-| **P** | Photo elicitation | Needs photo/video context OR generalize to food-type behavior |
-| **C** | Clarification / follow-up | Continues prior turn; inherits parent tags |
-| **R** | Reflexive look-back | Interviewer names prior step; twin should **re-express known patterns** |
+
+| Type  | Meaning                   | Twin approach                                                           |
+| ----- | ------------------------- | ----------------------------------------------------------------------- |
+| **B** | Behavior probe            | Simulate decision logic from calibrated patterns                        |
+| **F** | Fact recall               | Weak for twin — dates, brands, specific diary days                      |
+| **P** | Photo elicitation         | Needs photo/video context OR generalize to food-type behavior           |
+| **C** | Clarification / follow-up | Continues prior turn; inherits parent tags                              |
+| **R** | Reflexive look-back       | Interviewer names prior step; twin should **re-express known patterns** |
+
 
 ### Behavioral pattern library (from prior steps)
 
-| Pattern ID | Source | What to simulate |
-| ---------- | ------ | ---------------- |
-| `identity_veg` | I1, FU2, I2 | Vegetarian values; won't handle meat packaging; occasional gym chicken |
-| `culture_spain_uk` | I1, D1–D4, FU1/FU2, I2 | Spain recycles community-wide; UK house orange bags only; emotional gap |
-| `budget_student` | I1, D2, FU2, I2 | Aldi list shop; wheeled caddy; refuse paid plastic bags; family-sized packs |
-| `recycling_blocked` | I1, D1–D4, I2 | Can't recycle at home; campus/library when available; teaches debate anyway |
-| `attgap_plastic` | I1, D3–D4, FU2, I2 | Knows plastic harm; home general waste; MBC work vs own bins |
-| `occasion_social` | D1–D4, FU1, I2 | Parties, cinema, McDonald's, gym — different packaging rules |
-| `occasion_campus` | D3–D4, I2 | Library days, Tupperware transport, Greggs, study deadlines |
-| `foodwaste_chain` | I1, D1–D4, FU1, I2 | Bean → quesadilla; batch soup; banana pancakes; sauce portion learning |
-| `reuse_containers` | I1, D1–D4, FU2, I2 | Tupperware, clingfilm, Sainsbury's bag, fruit containers |
-| `convenience_default` | I1, D2–D4, I2 | Frozen veg/pizza/bread; marketplace year 1; deadline eating |
-| `partner_cook` | I1, FU1, I2 | Pablo leads; Isabella sous chef; shared Aldi shop |
-| `mbc_work` | D3, FU2, I2 | Children's plastic debates; prompts reusable bottle thinking |
-| `fitness_diet` | D2–D3, I2 | Gym mornings; protein planning; post-workout lunch |
+
+| Pattern ID            | Source                 | What to simulate                                                            |
+| --------------------- | ---------------------- | --------------------------------------------------------------------------- |
+| `identity_veg`        | I1, FU2, I2            | Vegetarian values; won't handle meat packaging; occasional gym chicken      |
+| `culture_spain_uk`    | I1, D1–D4, FU1/FU2, I2 | Spain recycles community-wide; UK house orange bags only; emotional gap     |
+| `budget_student`      | I1, D2, FU2, I2        | Aldi list shop; wheeled caddy; refuse paid plastic bags; family-sized packs |
+| `recycling_blocked`   | I1, D1–D4, I2          | Can't recycle at home; campus/library when available; teaches debate anyway |
+| `attgap_plastic`      | I1, D3–D4, FU2, I2     | Knows plastic harm; home general waste; MBC work vs own bins                |
+| `occasion_social`     | D1–D4, FU1, I2         | Parties, cinema, McDonald's, gym — different packaging rules                |
+| `occasion_campus`     | D3–D4, I2              | Library days, Tupperware transport, Greggs, study deadlines                 |
+| `foodwaste_chain`     | I1, D1–D4, FU1, I2     | Bean → quesadilla; batch soup; banana pancakes; sauce portion learning      |
+| `reuse_containers`    | I1, D1–D4, FU2, I2     | Tupperware, clingfilm, Sainsbury's bag, fruit containers                    |
+| `convenience_default` | I1, D2–D4, I2          | Frozen veg/pizza/bread; marketplace year 1; deadline eating                 |
+| `partner_cook`        | I1, FU1, I2            | Pablo leads; Isabella sous chef; shared Aldi shop                           |
+| `mbc_work`            | D3, FU2, I2            | Children's plastic debates; prompts reusable bottle thinking                |
+| `fitness_diet`        | D2–D3, I2              | Gym mornings; protein planning; post-workout lunch                          |
+
 
 ### Full transcript: 94 tagged turns in 10 conversational arcs
 
@@ -282,180 +301,202 @@ Each turn has three question layers:
 
 **Arc summary (paraphrased):** Gym meaning; diet-exercise link; post-gym lunch; occasional meat for protein.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 1 | R+B | Going back to Interview 1, what does going to the gym mean for you? | Well just to begin with then, I mean you mentioned in your first interview when you were tal... | `fitness_diet`, `identity_veg` |
-| 2 | B | How does your diet relate to exercise and the meals you eat? | Great ok. And as well just like in terms of, like in the context of this study around food a... | `fitness_diet`, `partner_cook` |
-| 3 | B | What snacks or foods do you tend to eat after the gym? | Ok and just, what kind of snacks, what kind of foods do you tend to eat afterwards then? | `fitness_diet`, `foodwaste_chain` |
-| 4 | B | On gym days, what do you eat for lunch after morning workouts? | I see. And you mentioned as well in terms of on the days when you are going to the gym you’l... | `fitness_diet`, `convenience_default` |
+
+| #   | Type | Paraphrased question                                                | Verbatim turn                                                                                   | Behavioral patterns                   |
+| --- | ---- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------- |
+| 1   | R+B  | Going back to Interview 1, what does going to the gym mean for you? | Well just to begin with then, I mean you mentioned in your first interview when you were tal... | `fitness_diet`, `identity_veg`        |
+| 2   | B    | How does your diet relate to exercise and the meals you eat?        | Great ok. And as well just like in terms of, like in the context of this study around food a... | `fitness_diet`, `partner_cook`        |
+| 3   | B    | What snacks or foods do you tend to eat after the gym?              | Ok and just, what kind of snacks, what kind of foods do you tend to eat afterwards then?        | `fitness_diet`, `foodwaste_chain`     |
+| 4   | B    | On gym days, what do you eat for lunch after morning workouts?      | I see. And you mentioned as well in terms of on the days when you are going to the gym you’l... | `fitness_diet`, `convenience_default` |
+
 
 #### Arc B: Hobbies, music & Santa upbringing (turns 5–13)
 
 **Arc summary (paraphrased):** Broad interests; canal walks; Apple Music; mountain-town childhood and home food norms.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 5 | R | Tell me more about your hobbies: reading, films, walking, and interests. | Yeah ok. Going back to your first interview again you told me a little bit about your hobbie... | `identity_veg`, NEW broad_interests |
-| 6 | B | What benefits do you get from walking, especially along the canal? | Yeah, I mean would you be able to tell me a little bit more about that in terms of walking a... | `fitness_diet`, NEW mental_health_walks |
-| 7 | B | How do you listen to music given you don't have one niche genre? | Yeah. And you mentioned as well, going back to your hobbies there, that you don’t have a par... | (inherits 5) |
-| 8 | B | How do you listen to music on a walk versus in the kitchen cooking? | Yeah. Ok. And so there’s different ways of listening to music then. So with the Apple Music,... | (inherits 5) |
-| 9 | R | You grew up in Santa — can you tell me more about that place? | That’s fine. Ok, and you’ve also mentioned in your first interview that you grew up, or you ... | `culture_spain_uk`, NEW santa_upbringing |
-| 10 | C | Is Santa the right pronunciation for where you grew up? | I think you just mentioned Santa but if that’s the right place. | (inherits 9) |
-| 11 | B | What was it like growing up in a mountain town close to the city? | Right, I see ok. And you mentioned there that its close to the city. Its close to the city b... | `culture_spain_uk` |
-| 12 | B | What was food shopping and preparation like at home in Santa? | Yeah, ok. And I was just wondering like in terms of the context of the study again around fo... | `culture_spain_uk`, `partner_cook` |
-| 13 | B | Did you have much involvement in cooking while growing up? | Ok and so did you have much involvement there in terms of food preparation or cooking? | `culture_spain_uk`, `identity_veg` |
+
+| #   | Type | Paraphrased question                                                     | Verbatim turn                                                                                   | Behavioral patterns                      |
+| --- | ---- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 5   | R    | Tell me more about your hobbies: reading, films, walking, and interests. | Yeah ok. Going back to your first interview again you told me a little bit about your hobbie... | `identity_veg`, NEW broad_interests      |
+| 6   | B    | What benefits do you get from walking, especially along the canal?       | Yeah, I mean would you be able to tell me a little bit more about that in terms of walking a... | `fitness_diet`, NEW mental_health_walks  |
+| 7   | B    | How do you listen to music given you don't have one niche genre?         | Yeah. And you mentioned as well, going back to your hobbies there, that you don’t have a par... | (inherits 5)                             |
+| 8   | B    | How do you listen to music on a walk versus in the kitchen cooking?      | Yeah. Ok. And so there’s different ways of listening to music then. So with the Apple Music,... | (inherits 5)                             |
+| 9   | R    | You grew up in Santa — can you tell me more about that place?            | That’s fine. Ok, and you’ve also mentioned in your first interview that you grew up, or you ... | `culture_spain_uk`, NEW santa_upbringing |
+| 10  | C    | Is Santa the right pronunciation for where you grew up?                  | I think you just mentioned Santa but if that’s the right place.                                 | (inherits 9)                             |
+| 11  | B    | What was it like growing up in a mountain town close to the city?        | Right, I see ok. And you mentioned there that its close to the city. Its close to the city b... | `culture_spain_uk`                       |
+| 12  | B    | What was food shopping and preparation like at home in Santa?            | Yeah, ok. And I was just wondering like in terms of the context of the study again around fo... | `culture_spain_uk`, `partner_cook`       |
+| 13  | B    | Did you have much involvement in cooking while growing up?               | Ok and so did you have much involvement there in terms of food preparation or cooking?          | `culture_spain_uk`, `identity_veg`       |
+
 
 #### Arc C: Year 1 catering & solo shopping waste (turns 14–23)
 
 **Arc summary (paraphrased):** Marketplace meal plan; parent insistence; solo lunches; frozen veg to cut waste; family-sized packs.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 14 | B | What basic cooking could you do before moving to the UK? | Yeah, I mean you’ve just mentioned there about understanding the basics, or you knew the bas... | `culture_spain_uk`, `convenience_default` |
-| 15 | R+B | In year 1 you used university marketplace catering — how did that work? | Ok. Actually just going on to what you mentioned there my next question I wanted to ask you ... | `culture_spain_uk`, `convenience_default`, `budget_student` |
-| 16 | B | Did you eat breakfast and dinner in the marketplace dining area? | Ok and you mentioned there that you would sit down, you would choose your options and then y... | `convenience_default` |
-| 17 | B | Why did your parents insist on catered meals in year 1? | Ok. And you also mentioned this is something that your parents had insisted at the time. And... | `culture_spain_uk`, `budget_student` |
-| 18 | B | What lunches did you prepare for yourself during year 1 classes? | Yeah, ok. And I mean you mentioned as well that, so you just mentioned there as well that yo... | `convenience_default`, `foodwaste_chain` |
-| 19 | R+B | Why did you start buying frozen vegetables to reduce waste? | Yeah, ok. And you mentioned that you started buying frozen vegetables there then because you... | `foodwaste_chain`, `convenience_default` |
-| 20 | B | Tell me more about the fresh produce waste when cooking for one. | Could you tell me more about what was happening there? | `foodwaste_chain`, `budget_student` |
-| 21 | B | How did supermarket pack sizes cater to more than one person? | Ok and you mentioned just then as well that in the supermarket the foods tended to cater for... | `foodwaste_chain`, `budget_student` |
-| 22 | B | Give an example of packaging sized for families rather than solo shoppers. | Ok and could you give me an example of what you mean there when you say that they catered fo... | `foodwaste_chain`, `budget_student` |
-| 23 | B | How did catered breakfast/dinner work with self-made lunches on campus? | Yeah, ok. And you mentioned here as well that you, so you decided to go for the catered meal... | `convenience_default`, `occasion_campus` |
+
+| #   | Type | Paraphrased question                                                       | Verbatim turn                                                                                   | Behavioral patterns                                         |
+| --- | ---- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 14  | B    | What basic cooking could you do before moving to the UK?                   | Yeah, I mean you’ve just mentioned there about understanding the basics, or you knew the bas... | `culture_spain_uk`, `convenience_default`                   |
+| 15  | R+B  | In year 1 you used university marketplace catering — how did that work?    | Ok. Actually just going on to what you mentioned there my next question I wanted to ask you ... | `culture_spain_uk`, `convenience_default`, `budget_student` |
+| 16  | B    | Did you eat breakfast and dinner in the marketplace dining area?           | Ok and you mentioned there that you would sit down, you would choose your options and then y... | `convenience_default`                                       |
+| 17  | B    | Why did your parents insist on catered meals in year 1?                    | Ok. And you also mentioned this is something that your parents had insisted at the time. And... | `culture_spain_uk`, `budget_student`                        |
+| 18  | B    | What lunches did you prepare for yourself during year 1 classes?           | Yeah, ok. And I mean you mentioned as well that, so you just mentioned there as well that yo... | `convenience_default`, `foodwaste_chain`                    |
+| 19  | R+B  | Why did you start buying frozen vegetables to reduce waste?                | Yeah, ok. And you mentioned that you started buying frozen vegetables there then because you... | `foodwaste_chain`, `convenience_default`                    |
+| 20  | B    | Tell me more about the fresh produce waste when cooking for one.           | Could you tell me more about what was happening there?                                          | `foodwaste_chain`, `budget_student`                         |
+| 21  | B    | How did supermarket pack sizes cater to more than one person?              | Ok and you mentioned just then as well that in the supermarket the foods tended to cater for... | `foodwaste_chain`, `budget_student`                         |
+| 22  | B    | Give an example of packaging sized for families rather than solo shoppers. | Ok and could you give me an example of what you mean there when you say that they catered fo... | `foodwaste_chain`, `budget_student`                         |
+| 23  | B    | How did catered breakfast/dinner work with self-made lunches on campus?    | Yeah, ok. And you mentioned here as well that you, so you decided to go for the catered meal... | `convenience_default`, `occasion_campus`                    |
+
 
 #### Arc D: Year 2 shared cooking & deadlines (turns 24–30)
 
 **Arc summary (paraphrased):** Anxious learning to cook; cooking for housemates; lentil soup and empanadas; end-of-term eating unchanged.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 24 | B | How did you manage packed lunches of veg and mash potato between classes? | That’s ok. So the question was just in terms of, so the lunches that you would make then for... | `occasion_campus`, `reuse_containers` |
-| 25 | R+B | What was learning to cook like when you moved to city accommodation in year 2? | Yeah, ok. And just moving on a little bit there now then, so you mentioned that during the s... | `partner_cook`, `identity_veg`, NEW anxious_cook |
-| 26 | B | Did you want housemates to like the food you cooked for them? | And you mentioned at the beginning there that you didn’t want to, or you wanted people to li... | `partner_cook`, `culture_spain_uk` |
-| 27 | B | Did you cook for others when you moved into the shared house? | So was cooking for others something that you did when you moved into your accommodation then... | `partner_cook`, `occasion_social` |
-| 28 | B | What meals did you cook for housemates in year 2? | Could you give me a couple of examples of the types of food that you did prepare, the meals ... | `partner_cook`, `foodwaste_chain` |
-| 29 | B | How much food preparation time did those shared meals take? | That’s ok. And I was just wondering then how much food preparation was involved there for so... | `partner_cook`, `convenience_default` |
-| 30 | B | How does end-of-term deadline pressure change eating and food prep? | Ok. And just moving on a little bit now. I mean just kind of whilst we’re talking about food... | `occasion_campus`, `convenience_default` |
+
+| #   | Type | Paraphrased question                                                           | Verbatim turn                                                                                   | Behavioral patterns                              |
+| --- | ---- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 24  | B    | How did you manage packed lunches of veg and mash potato between classes?      | That’s ok. So the question was just in terms of, so the lunches that you would make then for... | `occasion_campus`, `reuse_containers`            |
+| 25  | R+B  | What was learning to cook like when you moved to city accommodation in year 2? | Yeah, ok. And just moving on a little bit there now then, so you mentioned that during the s... | `partner_cook`, `identity_veg`, NEW anxious_cook |
+| 26  | B    | Did you want housemates to like the food you cooked for them?                  | And you mentioned at the beginning there that you didn’t want to, or you wanted people to li... | `partner_cook`, `culture_spain_uk`               |
+| 27  | B    | Did you cook for others when you moved into the shared house?                  | So was cooking for others something that you did when you moved into your accommodation then... | `partner_cook`, `occasion_social`                |
+| 28  | B    | What meals did you cook for housemates in year 2?                              | Could you give me a couple of examples of the types of food that you did prepare, the meals ... | `partner_cook`, `foodwaste_chain`                |
+| 29  | B    | How much food preparation time did those shared meals take?                    | That’s ok. And I was just wondering then how much food preparation was involved there for so... | `partner_cook`, `convenience_default`            |
+| 30  | B    | How does end-of-term deadline pressure change eating and food prep?            | Ok. And just moving on a little bit now. I mean just kind of whilst we’re talking about food... | `occasion_campus`, `convenience_default`         |
+
 
 #### Arc E: Failed household recycling (turns 31–47)
 
 **Arc summary (paraphrased):** Orange general-waste bags; three/four kerbside attempts; council/student housing advice; labelled indoor bins.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 31 | R+B | You had a bad relationship with recycling in the UK — tell me more. | Ok. And just going back to your previous experiences of recycling now. So you’ve mentioned i... | `recycling_blocked`, `culture_spain_uk`, `attgap_plastic` |
-| 32 | C | Is the orange bag requirement only in your third year? | Oh so this is the third year where it had to be orange? | (inherits 31) |
-| 33 | B | How do the orange council bags work for general waste? | Oh right, I see. So would you be able to tell me a little bit more about that? | `recycling_blocked`, `culture_spain_uk` |
-| 34 | C | So the orange bags are for general waste, not recycling? | Oh I see so these orange bags then are for the general waste. | (inherits 33) |
-| 35 | B | Does everyone on your street use the same orange bags? | I see and does everybody else on the street use the same orange bins too? | `recycling_blocked` |
-| 36 | C | Are there wheeled bins, or only bags you put outside? | I see. And so these are, so there’s no kind of wheeled bins or bins that you tend to wheel o... | (inherits 35) |
-| 37 | R+B | Walk through the three or four recycling methods you tried before giving up. | Ok. And I just wanted to go back to the recycling now then if that’s ok. So you mentioned th... | `recycling_blocked`, `attgap_plastic` |
-| 38 | B | What kind of bag did you put recycling in when trying kerbside collection? | Ok. And one of the small changes that you mentioned there, so you put the recycling inside a... | `recycling_blocked` |
-| 39 | B | What advice did student housing or the council give about recycling? | Ok and you also mentioned that you spoke to the local council and they gave you some advice. | `recycling_blocked`, `culture_spain_uk` |
-| 40 | C | Was that contact through the landlord? | Is that the landlord? | (inherits 39) |
-| 41 | B | How did you come up with using black or white plastic bags for recycling? | And how did you come about the idea of using a bag, like the black plastic bag that you talk... | `recycling_blocked` |
-| 42 | B | Did you notice how neighbours on the street handled recycling? | Ok. Right, I see. I was just wondering then if you noticed anything else on your street at t... | `recycling_blocked`, `culture_spain_uk` |
-| 43 | B | What did student housing say when they directed you back to the leaflet? | And you also mentioned as well after being in contact with student housing and they guided y... | `recycling_blocked` |
-| 44 | B | Once you finished with packaging in the kitchen, what did you do with it? | Ok. And in terms of when you were recycling at the time then, so once you’d finished with so... | `recycling_blocked`, `reuse_containers` |
-| 45 | B | Did you label separate bins for paper and plastic inside the house? | Ok. So just mentioning there in terms of you would put the paper in the one that you’d label... | `recycling_blocked` |
-| 46 | C | Were the council-labelled bins left outside for collection? | So the ones for the local council were left outside? | (inherits 45) |
-| 47 | B | What indoor labelled bins did you use for sorting? | I see so what bins did you use inside then, the ones that you labelled what were those like? | `recycling_blocked`, `reuse_containers` |
+
+| #   | Type | Paraphrased question                                                         | Verbatim turn                                                                                   | Behavioral patterns                                       |
+| --- | ---- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 31  | R+B  | You had a bad relationship with recycling in the UK — tell me more.          | Ok. And just going back to your previous experiences of recycling now. So you’ve mentioned i... | `recycling_blocked`, `culture_spain_uk`, `attgap_plastic` |
+| 32  | C    | Is the orange bag requirement only in your third year?                       | Oh so this is the third year where it had to be orange?                                         | (inherits 31)                                             |
+| 33  | B    | How do the orange council bags work for general waste?                       | Oh right, I see. So would you be able to tell me a little bit more about that?                  | `recycling_blocked`, `culture_spain_uk`                   |
+| 34  | C    | So the orange bags are for general waste, not recycling?                     | Oh I see so these orange bags then are for the general waste.                                   | (inherits 33)                                             |
+| 35  | B    | Does everyone on your street use the same orange bags?                       | I see and does everybody else on the street use the same orange bins too?                       | `recycling_blocked`                                       |
+| 36  | C    | Are there wheeled bins, or only bags you put outside?                        | I see. And so these are, so there’s no kind of wheeled bins or bins that you tend to wheel o... | (inherits 35)                                             |
+| 37  | R+B  | Walk through the three or four recycling methods you tried before giving up. | Ok. And I just wanted to go back to the recycling now then if that’s ok. So you mentioned th... | `recycling_blocked`, `attgap_plastic`                     |
+| 38  | B    | What kind of bag did you put recycling in when trying kerbside collection?   | Ok. And one of the small changes that you mentioned there, so you put the recycling inside a... | `recycling_blocked`                                       |
+| 39  | B    | What advice did student housing or the council give about recycling?         | Ok and you also mentioned that you spoke to the local council and they gave you some advice.    | `recycling_blocked`, `culture_spain_uk`                   |
+| 40  | C    | Was that contact through the landlord?                                       | Is that the landlord?                                                                           | (inherits 39)                                             |
+| 41  | B    | How did you come up with using black or white plastic bags for recycling?    | And how did you come about the idea of using a bag, like the black plastic bag that you talk... | `recycling_blocked`                                       |
+| 42  | B    | Did you notice how neighbours on the street handled recycling?               | Ok. Right, I see. I was just wondering then if you noticed anything else on your street at t... | `recycling_blocked`, `culture_spain_uk`                   |
+| 43  | B    | What did student housing say when they directed you back to the leaflet?     | And you also mentioned as well after being in contact with student housing and they guided y... | `recycling_blocked`                                       |
+| 44  | B    | Once you finished with packaging in the kitchen, what did you do with it?    | Ok. And in terms of when you were recycling at the time then, so once you’d finished with so... | `recycling_blocked`, `reuse_containers`                   |
+| 45  | B    | Did you label separate bins for paper and plastic inside the house?          | Ok. So just mentioning there in terms of you would put the paper in the one that you’d label... | `recycling_blocked`                                       |
+| 46  | C    | Were the council-labelled bins left outside for collection?                  | So the ones for the local council were left outside?                                            | (inherits 45)                                             |
+| 47  | B    | What indoor labelled bins did you use for sorting?                           | I see so what bins did you use inside then, the ones that you labelled what were those like?    | `recycling_blocked`, `reuse_containers`                   |
+
 
 #### Arc F: Tupperware, health & food-waste views (turns 48–53)
 
 **Arc summary (paraphrased):** Thin vs sturdy containers; health concerns; cold-food aversion; throwing food away.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 48 | R+B | Going back to Interview 1, why do you prefer Tupperware over thin takeaway containers? | Right, I see. Ok. I also wanted to go back to your first interview when you were talking abo... | `reuse_containers`, `identity_veg` |
-| 49 | B | Why do thin plastic containers feel like they aren't meant for reuse? | Ok. So you just mentioned there that it’s a thin type of plastic so you feel like its not me... | `reuse_containers` |
-| 50 | B | Is health another reason you avoid reusing certain containers? | Ok and you also mentioned health. Is there a reason there too? | `reuse_containers`, `identity_veg` |
-| 51 | B | What health concerns do you have about reusing plastic food containers? | That’s ok. And you mentioned that you feel as though there’s some possible health concerns a... | `reuse_containers`, `identity_veg` |
-| 52 | B | Why don't you like eating cold food that isn't meant to be served cold? | That’s ok. And I was just curious as well, as you mentioned that you don’t like eating cold ... | `foodwaste_chain`, NEW cold_food_aversion |
-| 53 | R+B | In Interview 1 you mentioned food waste — how do you think about throwing food away? | That’s ok. So we’ve been talking a little bit earlier on about food waste and I was wonderin... | `foodwaste_chain`, `attgap_plastic` |
+
+| #                 | Type | Paraphrased question                                                                   | Verbatim turn                                                                                   | Behavioral patterns                       |
+| ----------------- | ---- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 48                | R+B  | Going back to Interview 1, why do you prefer Tupperware over thin takeaway containers? | Right, I see. Ok. I also wanted to go back to your first interview when you were talking abo... | `reuse_containers`, `identity_veg`        |
+| 49                | B    | Why do thin plastic containers feel like they aren't meant for reuse?                  | Ok. So you just mentioned there that it’s a thin type of plastic so you feel like its not me... | `reuse_containers`                        |
+| 50 - CAN SIMULATE | B    | Is health another reason you avoid reusing certain containers?                         | Ok and you also mentioned health. Is there a reason there too?                                  | `reuse_containers`, `identity_veg`        |
+| 51 - CAN SIMULATE | B    | What health concerns do you have about reusing plastic food containers?                | That’s ok. And you mentioned that you feel as though there’s some possible health concerns a... | `reuse_containers`, `identity_veg`        |
+| 52                | B    | Why don't you like eating cold food that isn't meant to be served cold?                | That’s ok. And I was just curious as well, as you mentioned that you don’t like eating cold ... | `foodwaste_chain`, NEW cold_food_aversion |
+| 53                | R+B  | In Interview 1 you mentioned food waste — how do you think about throwing food away?   | That’s ok. So we’ve been talking a little bit earlier on about food waste and I was wonderin... | `foodwaste_chain`, `attgap_plastic`       |
+
 
 #### Arc G: Week 3 diary: gym cups, MBC & documentaries (turns 54–70)
 
 **Arc summary (paraphrased):** Gym plastic cups; children's plastic debates; packaging tradeoffs; Seaspiracy; produce choice.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 54 | R | Shall we move on to your diary entries now? | Yeah, ok. I have some questions now around your diary entries, so I’ll move onto those now i... | (transition to diaries) |
-| 55 | R+P | In week 3 Tuesday 8th you went to the gym — tell me about plastic cups there. | Ok, so looking at your week three diary entry, so this is Tuesday 8th and you had an entry h... | `occasion_social`, `recycling_blocked`, `attgap_plastic` |
-| 56 | B | Why do people use disposable plastic cups at the gym even in your household context? | Ok and can I just ask why that is as well? Even in terms of where you’re living at the moment. | `occasion_social`, `attgap_plastic`, `recycling_blocked` |
-| 57 | B | What facilities does the gym have for hydration? | Ok. And I was wondering as well, just going back to the gym in terms of the facilities, what... | `occasion_social`, `fitness_diet` |
-| 58 | C | So you can refill bottles from water fountains at the gym? | Ok so you can fill up that bottle there from the fountains. | (inherits 57) |
-| 59 | B | You mentioned someone drinking from a plastic cup — tell me more. | Ok and you mentioned as well though that you’d mentioned somebody drinking from a plastic cup. | `occasion_social`, `attgap_plastic` |
-| 60 | C | Are there cups available next to the water fountains? | I see, so there aren’t any kind of cups available then next to these water fountains that yo... | (inherits 59) |
-| 61 | R | On 9th you wrote about your MBC job — what projects are you involved in? | Ok. Right, moving on to 9th, so you included an entry here about your job. So you mentioned ... | `mbc_work`, `attgap_plastic` |
-| 62 | B | What are the children's parliament plastic projects like? | Yeah, what are those projects like then? Are there any others that you’re engaged in at the ... | `mbc_work` |
-| 63 | R+B | Tell me about the People's Parliament plastic debates with schoolchildren. | That sounds good, great ok. And you mentioned there, going back to the people’s parliament t... | `mbc_work`, `attgap_plastic` |
-| 64 | B | What are your thoughts on the environmental implications of plastic food packaging? | Well just maybe more generally about your thoughts on the implications of plastic, maybe in ... | `attgap_plastic`, `mbc_work` |
-| 65 | B | What exceptions do you make for single-use plastics in practice? | Ok. And you mentioned as well that there’s always exceptions in terms of using single use pl... | `attgap_plastic`, `occasion_social` |
-| 66 | B | How do you weigh plastic pollution against other environmental issues like food waste? | Yeah, no definitely. And we’ve talked a little bit about plastic here and the impact of plas... | `attgap_plastic`, `foodwaste_chain` |
-| 67 | B | How would you decide between packaged versus loose fresh fruit and vegetables? | Ok and I mean just for example then how would you feel about buying say fresh fruits or vege... | `attgap_plastic`, `budget_student` |
-| 68 | B | If two produce options were available, how would you choose on packaging? | No that’s ok. I was just curious in terms of what, how would you make a decision if there we... | `attgap_plastic`, `budget_student` |
-| 69 | B | Have documentaries like Seaspiracy shaped how you think about plastic? | Ok and over the past couple of years there have been a number of different documentaries, so... | `attgap_plastic`, `identity_veg` |
-| 70 | B | How did Seaspiracy's plastic content make you feel? | Yeah. And with Seaspiracy there you mentioned that it does touch upon plastic and it kind of... | `attgap_plastic`, `identity_veg` |
+
+| #                 | Type | Paraphrased question                                                                   | Verbatim turn                                                                                   | Behavioral patterns                                      |
+| ----------------- | ---- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 54                | R    | Shall we move on to your diary entries now?                                            | Yeah, ok. I have some questions now around your diary entries, so I’ll move onto those now i... | (transition to diaries)                                  |
+| 55                | R+P  | In week 3 Tuesday 8th you went to the gym — tell me about plastic cups there.          | Ok, so looking at your week three diary entry, so this is Tuesday 8th and you had an entry h... | `occasion_social`, `recycling_blocked`, `attgap_plastic` |
+| 56                | B    | Why do people use disposable plastic cups at the gym even in your household context?   | Ok and can I just ask why that is as well? Even in terms of where you’re living at the moment.  | `occasion_social`, `attgap_plastic`, `recycling_blocked` |
+| 57                | B    | What facilities does the gym have for hydration?                                       | Ok. And I was wondering as well, just going back to the gym in terms of the facilities, what... | `occasion_social`, `fitness_diet`                        |
+| 58                | C    | So you can refill bottles from water fountains at the gym?                             | Ok so you can fill up that bottle there from the fountains.                                     | (inherits 57)                                            |
+| 59                | B    | You mentioned someone drinking from a plastic cup — tell me more.                      | Ok and you mentioned as well though that you’d mentioned somebody drinking from a plastic cup.  | `occasion_social`, `attgap_plastic`                      |
+| 60                | C    | Are there cups available next to the water fountains?                                  | I see, so there aren’t any kind of cups available then next to these water fountains that yo... | (inherits 59)                                            |
+| 61                | R    | On 9th you wrote about your MBC job — what projects are you involved in?               | Ok. Right, moving on to 9th, so you included an entry here about your job. So you mentioned ... | `mbc_work`, `attgap_plastic`                             |
+| 62                | B    | What are the children's parliament plastic projects like?                              | Yeah, what are those projects like then? Are there any others that you’re engaged in at the ... | `mbc_work`                                               |
+| 63                | R+B  | Tell me about the People's Parliament plastic debates with schoolchildren.             | That sounds good, great ok. And you mentioned there, going back to the people’s parliament t... | `mbc_work`, `attgap_plastic`                             |
+| 64 - CAN SIMULATE | B    | What are your thoughts on the environmental implications of plastic food packaging?    | Well just maybe more generally about your thoughts on the implications of plastic, maybe in ... | `attgap_plastic`, `mbc_work`                             |
+| 65 - CAN SIMULATE | B    | What exceptions do you make for single-use plastics in practice?                       | Ok. And you mentioned as well that there’s always exceptions in terms of using single use pl... | `attgap_plastic`, `occasion_social`                      |
+| 66 - CAN SIMULATE | B    | How do you weigh plastic pollution against other environmental issues like food waste? | Yeah, no definitely. And we’ve talked a little bit about plastic here and the impact of plas... | `attgap_plastic`, `foodwaste_chain`                      |
+| 67 - CAN SIMULATE | B    | How would you decide between packaged versus loose fresh fruit and vegetables?         | Ok and I mean just for example then how would you feel about buying say fresh fruits or vege... | `attgap_plastic`, `budget_student`                       |
+| 68 - CAN SIMULATE | B    | If two produce options were available, how would you choose on packaging?              | No that’s ok. I was just curious in terms of what, how would you make a decision if there we... | `attgap_plastic`, `budget_student`                       |
+| 69                | B    | Have documentaries like Seaspiracy shaped how you think about plastic?                 | Ok and over the past couple of years there have been a number of different documentaries, so... | `attgap_plastic`, `identity_veg`                         |
+| 70                | B    | How did Seaspiracy's plastic content make you feel?                                    | Yeah. And with Seaspiracy there you mentioned that it does touch upon plastic and it kind of... | `attgap_plastic`, `identity_veg`                         |
+
 
 #### Arc H: Week 3–4 diary: quiche, Greggs & McDonald's (turns 71–76)
 
 **Arc summary (paraphrased):** Quiche clingfilm; apples uncovered; Greggs paper; McDonald's nuggets.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 71 | R+B | On Thursday 10th you made quiche and stored leftovers — tell me about clingfilm use. | Yeah, ok. Just going back to your diary entries there. You mentioned on Thursday, 10th you m... | `reuse_containers`, `foodwaste_chain` |
-| 72 | B | Why don't you cover apples when they go in the fridge? | Ok, and you mentioned there as well that you don’t cover the apples up though when they go i... | `foodwaste_chain`, `reuse_containers` |
-| 73 | P | Tell me about the Greggs vegan sausage roll photo from your diary. | I see. Just moving on again a little bit. There was another instance, and I think you took s... | `occasion_campus`, `recycling_blocked` |
-| 74 | R | In week 4 you had McDonald's nuggets — what happened to the packaging? | Ok. And just moving on to your week four diary entries now then. So you mentioned on one par... | `occasion_social`, `convenience_default` |
-| 75 | B | Why did you buy chicken nuggets at McDonald's that day? | Right, I see. And you decided to buy some chicken nuggets as well whilst you were there. And... | `fitness_diet`, `occasion_social` |
-| 76 | B | Where did you eat the McDonald's meal? | Ok, so whereabouts did you eat this meal then? | `occasion_social` |
+
+| #   | Type | Paraphrased question                                                                 | Verbatim turn                                                                                   | Behavioral patterns                      |
+| --- | ---- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 71  | R+B  | On Thursday 10th you made quiche and stored leftovers — tell me about clingfilm use. | Yeah, ok. Just going back to your diary entries there. You mentioned on Thursday, 10th you m... | `reuse_containers`, `foodwaste_chain`    |
+| 72  | B    | Why don't you cover apples when they go in the fridge?                               | Ok, and you mentioned there as well that you don’t cover the apples up though when they go i... | `foodwaste_chain`, `reuse_containers`    |
+| 73  | P    | Tell me about the Greggs vegan sausage roll photo from your diary.                   | I see. Just moving on again a little bit. There was another instance, and I think you took s... | `occasion_campus`, `recycling_blocked`   |
+| 74  | R    | In week 4 you had McDonald's nuggets — what happened to the packaging?               | Ok. And just moving on to your week four diary entries now then. So you mentioned on one par... | `occasion_social`, `convenience_default` |
+| 75  | B    | Why did you buy chicken nuggets at McDonald's that day?                              | Right, I see. And you decided to buy some chicken nuggets as well whilst you were there. And... | `fitness_diet`, `occasion_social`        |
+| 76  | B    | Where did you eat the McDonald's meal?                                               | Ok, so whereabouts did you eat this meal then?                                                  | `occasion_social`                        |
+
 
 #### Arc I: Week 4: frozen pizza, Sainsbury bag & litter pick (turns 77–83)
 
 **Arc summary (paraphrased):** Frozen pizza double wrap; brioche; Sainsbury bag hack; castle litter-pick; island care.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 77 | R+B | You bought frozen pizza with box and inner wrap — tell me about that choice. | You also mentioned in this diary entry that you went shopping this week and you bought froze... | `convenience_default`, `attgap_plastic` |
-| 78 | B | What do you think of brioche rolls compared with other bread options? | I see. I mean would you be able to tell me a little bit more about what you think about thes... | `budget_student`, `convenience_default` |
-| 79 | C | Are the Sainsbury's brioche rolls what you buy now? | And so the brioche rolls then from Sainsburys are those what you have at the moment? | (inherits 78) |
-| 80 | B | Besides packaging, did you notice any difference in the brioche product? | I see. And did you notice any differences there like besides the packaging? Did you notice a... | `budget_student` |
-| 81 | R+B | You bought a Sainsbury's bag to reuse instead of daily clingfilm — why? | That’s ok. … Just having a look here now, so you also mentioned, it might be better if I rea... | `reuse_containers`, `budget_student` |
-| 82 | R+B | On Saturday 19th you litter-picked at the castle sunset — tell me about that. | That’s great, ok. And on Saturday 19th you mentioned that you went to see a sunset at [city]... | `culture_spain_uk`, `attgap_plastic` |
-| 83 | B | Why do you feel people don't look after the island or protect the environment? | I see, ok. And you mentioned as well in terms of being at home that people don’t look after ... | `culture_spain_uk`, `attgap_plastic` |
+
+| #   | Type | Paraphrased question                                                           | Verbatim turn                                                                                   | Behavioral patterns                     |
+| --- | ---- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | --------------------------------------- |
+| 77  | R+B  | You bought frozen pizza with box and inner wrap — tell me about that choice.   | You also mentioned in this diary entry that you went shopping this week and you bought froze... | `convenience_default`, `attgap_plastic` |
+| 78  | B    | What do you think of brioche rolls compared with other bread options?          | I see. I mean would you be able to tell me a little bit more about what you think about thes... | `budget_student`, `convenience_default` |
+| 79  | C    | Are the Sainsbury's brioche rolls what you buy now?                            | And so the brioche rolls then from Sainsburys are those what you have at the moment?            | (inherits 78)                           |
+| 80  | B    | Besides packaging, did you notice any difference in the brioche product?       | I see. And did you notice any differences there like besides the packaging? Did you notice a... | `budget_student`                        |
+| 81  | R+B  | You bought a Sainsbury's bag to reuse instead of daily clingfilm — why?        | That’s ok. … Just having a look here now, so you also mentioned, it might be better if I rea... | `reuse_containers`, `budget_student`    |
+| 82  | R+B  | On Saturday 19th you litter-picked at the castle sunset — tell me about that.  | That’s great, ok. And on Saturday 19th you mentioned that you went to see a sunset at [city]... | `culture_spain_uk`, `attgap_plastic`    |
+| 83  | B    | Why do you feel people don't look after the island or protect the environment? | I see, ok. And you mentioned as well in terms of being at home that people don’t look after ... | `culture_spain_uk`, `attgap_plastic`    |
+
 
 #### Arc J: Leftover psychology & container reuse (turns 84–94)
 
 **Arc summary (paraphrased):** Reheating aversion; brain categorization of stored food; fruit-container reuse in Spain vs UK.
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-| - | ---- | -------------------- | ------------- | ------------------- |
-| 84 | R | Going back to our earlier conversation about leftovers and reheating food. | Ok. I’ve just got a couple more questions left actually. I mean this is kind of just going b... | `foodwaste_chain`, NEW leftover_psychology |
-| 85 | B | How do you feel about eating leftovers or preheated foods? | Yeah, ok. But from my understanding as well you’ve mentioned that in terms of eating leftove... | `foodwaste_chain`, NEW leftover_psychology |
-| 86 | C | Why is that? | And why is that? | (inherits 85) |
-| 87 | B | How do frozen or long-stored homemade foods compare to fresh in your mind? | Ok and how do foods then that you make and either leave for a long period of time or freeze ... | `foodwaste_chain`, `convenience_default` |
-| 88 | C | Are reheated foods as good as when fresh? | They are as good as when they were fresh? | (inherits 87) |
-| 89 | B | How does your brain categorize foods as safe or unsafe when reheated? | I see, ok. So when you mention then in terms of the way you mention that the way your brain ... | `foodwaste_chain`, NEW leftover_psychology |
-| 90 | R+B | You mentioned reusing fruit containers for storage — tell me more. | Ok. And I just had one more question, so you mentioned, I mean I’m not sure if we’ve quite c... | `reuse_containers`, `culture_spain_uk` |
-| 91 | C | Is that container reuse habit from the UK or from home in Spain? | And is that here in the UK or is this | (inherits 90) |
-| 92 | R+B | How do you reuse a fresh-fruit container to store other food? | Oh right I see. So in terms of, in this instance you talk about reusing a container that som... | `reuse_containers`, `culture_spain_uk` |
-| 93 | B | Are there other times you reuse food packaging for storage? | Yeah, no that’s ok. I was just wondering are there any other instances where you tend to kin... | `reuse_containers` |
-| 94 | C | End of interview — any final points on packaging reuse? | That’s ok. Well that’s all of my questions. End of interview | (closing) |
+
+| #                 | Type | Paraphrased question                                                       | Verbatim turn                                                                                   | Behavioral patterns                        |
+| ----------------- | ---- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 84                | R    | Going back to our earlier conversation about leftovers and reheating food. | Ok. I’ve just got a couple more questions left actually. I mean this is kind of just going b... | `foodwaste_chain`, NEW leftover_psychology |
+| 85 - CAN SIMULATE | B    | How do you feel about eating leftovers or preheated foods?                 | Yeah, ok. But from my understanding as well you’ve mentioned that in terms of eating leftove... | `foodwaste_chain`, NEW leftover_psychology |
+| 86                | C    | Why is that?                                                               | And why is that?                                                                                | (inherits 85)                              |
+| 87 - CAN SIMULATE | B    | How do frozen or long-stored homemade foods compare to fresh in your mind? | Ok and how do foods then that you make and either leave for a long period of time or freeze ... | `foodwaste_chain`, `convenience_default`   |
+| 88                | C    | Are reheated foods as good as when fresh?                                  | They are as good as when they were fresh?                                                       | (inherits 87)                              |
+| 89 - CAN SIMULATE | B    | How does your brain categorize foods as safe or unsafe when reheated?      | I see, ok. So when you mention then in terms of the way you mention that the way your brain ... | `foodwaste_chain`, NEW leftover_psychology |
+| 90                | R+B  | You mentioned reusing fruit containers for storage — tell me more.         | Ok. And I just had one more question, so you mentioned, I mean I’m not sure if we’ve quite c... | `reuse_containers`, `culture_spain_uk`     |
+| 91                | C    | Is that container reuse habit from the UK or from home in Spain?           | And is that here in the UK or is this                                                           | (inherits 90)                              |
+| 92                | R+B  | How do you reuse a fresh-fruit container to store other food?              | Oh right I see. So in terms of, in this instance you talk about reusing a container that som... | `reuse_containers`, `culture_spain_uk`     |
+| 93                | B    | Are there other times you reuse food packaging for storage?                | Yeah, no that’s ok. I was just wondering are there any other instances where you tend to kin... | `reuse_containers`                         |
+| 94                | C    | End of interview — any final points on packaging reuse?                    | That’s ok. Well that’s all of my questions. End of interview                                    | (closing)                                  |
+
 
 ### Summary: what the twin loads for each arc
 
-| Arc | Twin loads | Weak for simulation |
-| --- | ---------- | ------------------- |
-| A | Gym identity, protein planning, post-workout eating | — |
-| B | Santa upbringing, broad hobbies, home food norms | Music platform detail |
-| C | Year 1 catering, solo waste, frozen veg logic | Marketplace timetable |
-| D | Anxious year-2 cooking, housemate meals | Specific empanada names |
-| E | Recycling failure narrative, orange bags | Council contact details |
-| F | Tupperware health, cold-food aversion | — |
-| G | Gym cups, MBC debates, produce choice, documentaries | Specific debate dates |
-| H | Quiche clingfilm, Greggs, McDonald's packaging | Diary day IDs |
-| I | Frozen pizza wrap, Sainsbury bag hack, litter pick | Brioche brand detail |
-| J | Leftover psychology, container reuse | Eurovision-adjacent closings |
+
+| Arc | Twin loads                                           | Weak for simulation          |
+| --- | ---------------------------------------------------- | ---------------------------- |
+| A   | Gym identity, protein planning, post-workout eating  | —                            |
+| B   | Santa upbringing, broad hobbies, home food norms     | Music platform detail        |
+| C   | Year 1 catering, solo waste, frozen veg logic        | Marketplace timetable        |
+| D   | Anxious year-2 cooking, housemate meals              | Specific empanada names      |
+| E   | Recycling failure narrative, orange bags             | Council contact details      |
+| F   | Tupperware health, cold-food aversion                | —                            |
+| G   | Gym cups, MBC debates, produce choice, documentaries | Specific debate dates        |
+| H   | Quiche clingfilm, Greggs, McDonald's packaging       | Diary day IDs                |
+| I   | Frozen pizza wrap, Sainsbury bag hack, litter pick   | Brioche brand detail         |
+| J   | Leftover psychology, container reuse                 | Eurovision-adjacent closings |
+
 
 ### Turns that are weak for behavior simulation
 
@@ -466,6 +507,7 @@ Each turn has three question layers:
 ### How this differs from the ~20-question summary
 
 P0 lists ~20 paraphrased I2 questions grouped by theme. The transcript has **94 substantive turns** because the interviewer probes follow-ups. A twin must handle the **conversation thread**, not just the headline question.
+
 ## Interview 2 transcript (full)
 
 **A · #1 · Arc A:** Well just to begin with then, I mean you mentioned in your first interview when you were talking about your routines and your hobbies and you mentioned that you’d started going to the gym. And I recognise that you’ve mentioned this a few times in your diary entries too. So I was just wondering if you could tell me what going to the gym means for you.
