@@ -11,7 +11,7 @@ Plan to scale from **Eliza Twin** (full calibration + simulation) and **Cath Twi
 | Eliza | 1 | A · Student | ~105 | Done (full) | Yes |
 | Cath | 1 | C · Homeowner | 69 | Done (no sim) | No |
 | Isabella | 1 | A · Student | ~94 | — | No |
-| Ella | 1 | B · Env systems | ~132 | — | No |
+| Ella | 1 | B · Env systems | ~132 | Done (no sim) | No |
 | Jacob | 1 | A · Student | ~91 | — | No |
 | Marina | 1 | C · Homeowner | ~37 | — | No |
 | Stephen | 1 | B · Env systems | ~76 | — | No |

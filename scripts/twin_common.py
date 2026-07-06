@@ -117,6 +117,7 @@ def behavior_tagged_section(
     situation_table_md: str,
     arc_summary_table_md: str,
     p0_question_count: int = 20,
+    subject_pronoun: str = "they",
 ) -> str:
     lines = [
         "## Interview 2: Behavior-Tagged Questions (Full Transcript)",
@@ -127,7 +128,7 @@ def behavior_tagged_section(
         "",
         f"For a twin, the goal is **not** to reproduce whether {participant} remembers a specific diary day. That is fact recall / lived experience.",
         "",
-        "The goal **is** to reproduce **how she behaves** when a situation arises:",
+        f"The goal **is** to reproduce **how {subject_pronoun} behaves** when a situation arises:",
         "",
         situation_table_md,
         "",
