@@ -1,6 +1,6 @@
 # Twin documents for other participants
 
-Plan to scale from **Eliza Twin** (full calibration + simulation) and **Cath Twin** (calibration only) to the remaining **15 participants**.
+Plan to scale from **Eliza Twin** (full calibration + simulation) and **Cath Twin** (calibration only) to the remaining **12 participants**.
 
 ---
 
@@ -10,9 +10,9 @@ Plan to scale from **Eliza Twin** (full calibration + simulation) and **Cath Twi
 |-------------|-------|--------|----------------------|----------|----------------|
 | Eliza | 1 | A · Student | ~105 | Done (full) | Yes |
 | Cath | 1 | C · Homeowner | 69 | Done (no sim) | No |
-| Isabella | 1 | A · Student | ~94 | — | No |
+| Isabella | 1 | A · Student | ~94 | Done (no sim) | No |
 | Ella | 1 | B · Env systems | ~132 | Done (no sim) | No |
-| Jacob | 1 | A · Student | ~91 | — | No |
+| Jacob | 1 | A · Student | ~91 | Done (no sim) | No |
 | Marina | 1 | C · Homeowner | ~37 | — | No |
 | Stephen | 1 | B · Env systems | ~76 | — | No |
 | Josie | 1 | B · Env systems | ~63 | — | No |
