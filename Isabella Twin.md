@@ -9,18 +9,138 @@
 
 Questions marked **CAN SIMULATE** in the arc tables and full transcript below. Type uses full names (not encoded letters).
 
-| # | Type | Paraphrased question | Verbatim turn | Behavioral patterns |
-|---|------|---------------------|---------------|---------------------|
-| 50 | Behavior probe | Is health another reason you avoid reusing certain containers? | You also mentioned health. Is there a reason there too? | `reuse_containers`, `identity_veg` |
-| 51 | Behavior probe | What health concerns do you have about reusing plastic food containers? | You feel as though there's some possible health concerns about reusing plastic food containers | `reuse_containers`, `identity_veg` |
-| 64 | Behavior probe | What are your thoughts on the environmental implications of plastic food packaging? | More generally about your thoughts on the implications of plastic, maybe in terms of food packaging | `attgap_plastic`, `mbc_work` |
-| 65 | Behavior probe | What exceptions do you make for single-use plastics in practice? | There's always exceptions in terms of using single use plastics | `attgap_plastic`, `occasion_social` |
-| 66 | Behavior probe | How do you weigh plastic pollution against other environmental issues like food waste? | We've talked a little bit about plastic… the impact of plastic… how does that compare to other environmental issues like food waste? | `attgap_plastic`, `foodwaste_chain` |
-| 67 | Behavior probe | How would you decide between packaged versus loose fresh fruit and vegetables? | How would you feel about buying say fresh fruits or vegetables… packaged versus loose? | `attgap_plastic`, `budget_student` |
-| 68 | Behavior probe | If two produce options were available, how would you choose on packaging? | How would you make a decision if there were two options available? | `attgap_plastic`, `budget_student` |
-| 85 | Behavior probe | How do you feel about eating leftovers or preheated foods? | In terms of eating leftovers or preheated foods… how do you feel about that? | `foodwaste_chain`, NEW leftover_psychology |
-| 87 | Behavior probe | How do frozen or long-stored homemade foods compare to fresh in your mind? | Foods that you make and either leave for a long period of time or freeze… how do they compare to fresh? | `foodwaste_chain`, `convenience_default` |
-| 89 | Behavior probe | How does your brain categorize foods as safe or unsafe when reheated? | The way your brain categorizes foods as safe or unsafe when reheated | `foodwaste_chain`, NEW leftover_psychology |
+| # | Type | Paraphrased question | Behavioral patterns |
+|---|------|---------------------|---------------------|
+| 50 | Behavior probe | Is health another reason you avoid reusing certain containers? | `reuse_containers`, `identity_veg` |
+| 51 | Behavior probe | What health concerns do you have about reusing plastic food containers? | `reuse_containers`, `identity_veg` |
+| 64 | Behavior probe | What are your thoughts on the environmental implications of plastic food packaging? | `attgap_plastic`, `mbc_work` |
+| 65 | Behavior probe | What exceptions do you make for single-use plastics in practice? | `attgap_plastic`, `occasion_social` |
+| 66 | Behavior probe | How does plastic packaging compare to paper or cardboard for food? | `attgap_plastic`, `foodwaste_chain` |
+| 67 | Behavior probe | How would you decide between packaged versus loose fresh fruit and vegetables? | `attgap_plastic`, `budget_student` |
+| 68 | Behavior probe | If two produce options were available, how would you choose on packaging? | `attgap_plastic`, `budget_student` |
+| 85 | Behavior probe | How do you feel about eating leftovers or preheated foods? | `foodwaste_chain`, NEW leftover_psychology |
+| 87 | Behavior probe | How do frozen or long-stored homemade foods compare to fresh in your mind? | `foodwaste_chain`, `convenience_default` |
+| 89 | Behavior probe | How does your brain categorize foods as safe or unsafe when reheated? | `foodwaste_chain`, NEW leftover_psychology |
+
+Full verbatim threads below. *First turn = first **B:** on the topic · Full thread = all **B:** on the same topic, including follow-ups.*
+
+---
+
+#### #50 · Is health another reason you avoid reusing certain containers?
+
+**Transcript (actual)** · *First turn only (no follow-ups on this thread)*
+
+**A · CAN SIMULATE (#50):** Ok and you also mentioned health. Is there a reason there too?
+
+**B · First turn:** Yeah, so I'm not an expert and maybe what I'm saying doesn't make any sense. But you know there's plastics that are made purposefully to be around foods and there are some that are not. And I feel like this Tupperware because of how they were not intended to be used so many times like I don't know maybe there's some sort of chemical thing that is going on or like microplastics. I do not know. But it just makes me feel like maybe for some reason its not the best option to be storing my food in. But I wouldn't know how to like answer that empirically because I just don't know.
+
+---
+
+#### #51 · What health concerns do you have about reusing plastic food containers?
+
+**Transcript (actual)** · *First turn only (no follow-ups on this thread)*
+
+**A · CAN SIMULATE (#51):** That's ok. And you mentioned that you feel as though there's some possible health concerns around using them because you don't feel that they are designed to be used for, like time and time again. So I was wondering why is it you think that these containers aren't supposed to be used time and time again?
+
+**B · First turn:** Well because they were like for takeaway food and they are thin so they're not very thick. The Tupperware we've bought as Tupperware in like stores are a little bit thicker. They also like, as I told you they change shape with time because of microwaving. Yeah, I don't know.
+
+---
+
+#### #64 · What are your thoughts on the environmental implications of plastic food packaging?
+
+**Transcript (actual)** · *First turn = substantive **B:** after clarifying probe · Full thread = same (no further follow-ups)*
+
+**A · #63 (prior):** … And I was just wondering if you could tell me what your thoughts are around plastic and the environmental impact or implications of plastic.
+
+**B:** So about burning plastic or
+
+**A · CAN SIMULATE (#64):** Well just maybe more generally about your thoughts on the implications of plastic, maybe in the context of the study in terms of plastic food packaging.
+
+**B · First turn:** Yeah I've definitely, and I feel like I've always known that plastic is wrong, obviously not always, like I've been taught this. But it was thanks to this, to like participating in this research and being more conscious about the plastic stuff that I've noticed how one use plastics are kind of not the best option. Sometimes they are of course, there's always exceptions. And they're very accessible and they make things easier, faster for many people, but I just know that personally when I have the means and got to take more time to like the food consume and stuff I would like to reduce my single use plastic consumption if that makes any sense. I feel like that's something that a lot of people can work on, even if its just a little bit, not going plastic free but just like making sure that if there are any alternatives near you which don't demand a lot from you that they're there for you to choose, if that makes any sense. But yeah I guess like as individuals being conscious of that and as a collective being also willing to protest and letting the people higher know that we want change to be made.
+
+---
+
+#### #65 · What exceptions do you make for single-use plastics in practice?
+
+**Transcript (actual)** · *First turn only (no follow-ups on this thread)*
+
+**A · CAN SIMULATE (#65):** Ok. And you mentioned as well that there's always exceptions in terms of using single use plastics. I just wondered what these are.
+
+**B · First turn:** that's a very good question. I don't know because I, when I said exceptions I really meant in terms of like circumstances. So for me right now as someone who doesn't have a car and that depends on either walking or public transport it may be for example wouldn't be the most comfortable for me to like go to a local farm and just like saying as an idea. My mother for example, the guy he used to get the oranges from, it's a huge package like if I was someone who didn't have a car I wouldn't know how to get that up to my house. I would probably prefer to just go to the supermarket and buy like a little, you know. So that's one the exceptions, we all have different circumstances and different means to do things. So I feel like we always have to be also conscious of that and not be too demanding and strict. Because at the end of the day that's always what gets people off this kind of like initiatives. Feeling like they have to do too much so then not doing absolutely anything. Yeah I don't know if that makes sense.
+
+---
+
+#### #66 · How does plastic packaging compare to paper or cardboard for food?
+
+**Transcript (actual)** · *First turn only (no follow-ups on this thread)*
+
+**A · CAN SIMULATE (#66):** Yeah, no definitely. And we've talked a little bit about plastic here and the impact of plastic and we've also talked about the different types of packaging materials or kind of use of more paper based packaging materials too. And I was wondering for you how plastic packaging compares to paper or cardboard based packaging for food.
+
+**B · First turn:** So honestly as a person who isn't right now using paper to store her food I wouldn't know how to answer that question. Because I just always like when I have to store any vegetables that I've already cut or something like that I always tend for like film plastic or a Tupperware. So I wouldn't, I can't think honestly of a time that I've chosen paper. And I wouldn't even know what paper to use, to do that. Which I probably should inform myself about. But even when I go to the supermarket I don't use paper bags, I use just like this reusable plastic ones that are super thick. So yeah, I don't know.
+
+---
+
+#### #67 · How would you decide between packaged versus loose fresh fruit and vegetables?
+
+**Transcript (actual)** · *First turn = first **B:** below · Full thread = both **B:** turns*
+
+**A · CAN SIMULATE (#67):** Ok and I mean just for example then how would you feel about buying say fresh fruits or vegetables that either come packaged in paper or come packaged in plastic?
+
+**B · First turn:** That's a good question because I feel like for me right now in my situation I am obviously no recycling any of those things. So I feel like for me individually it wouldn't make a difference, but maybe it would in terms of like as a consumer of that place, like letting them know that I am choosing paper over plastic, which will probably be like the smartest thing to do. But I've never found myself in that situation. Because even when I think back home its either you take your own little bag to the store to put the vegetables in or of course we're talking about some that are already like stored either in paper or plastic.  But they're either like already in plastic or you have to put it on a plastic bag. So I don't know, I haven't, I don't think I've ever carried fruit or vegetables in a paper bag. I don't think so.
+
+**A:** No, ok.
+
+**B · Follow-up:** I can't think so, sorry.
+
+---
+
+#### #68 · If two produce options were available, how would you choose on packaging?
+
+**Transcript (actual)** · *First turn only (no follow-ups on this thread)*
+
+**A · CAN SIMULATE (#68):** No that's ok. I was just curious in terms of what, how would you make a decision if there were two options available. I know you've mentioned you're not recycling at the moment. So in terms of recycling plastic or paper that wouldn't have an impact here. But I was just curious in terms of how would you make a decision over whether to choose fruits or vegetables packaged in plastic or paper.
+
+**B · First turn:** So I think I'd probably go for the paper just because they are like more, I don't know the word for this but like they don't last as long as plastic. So I think that with the knowledge I have that that would probably be like the most environmentally friendly option. So I'd probably go for that if I had like the chance to choose.
+
+---
+
+#### #85 · How do you feel about eating leftovers or preheated foods?
+
+**Transcript (actual)** · *First turn = first **B:** below · Full thread = both **B:** turns*
+
+**A · CAN SIMULATE (#85):** Yeah, ok. But from my understanding as well you've mentioned that in terms of eating leftovers or preheated foods. So foods that you have cooked and then eat at a later date. That's something that you're not particularly kind of over keen on doing.
+
+**B · First turn:** Yeah so I'm no hater, its not that I can't do it but I just like the food that is like freshly made, like just made, just out of the oven.  You cannot match that once its been heated again. So obviously this was the perfect world I would always eat something that is freshly made, but no I just like I have to deal with that. But like for example if I store some pasta I'm not going to eat it like four days later. Well I would if that came to be the case but I would make sure that I eat it soon and then I cook again. Than to cook something different and like keep storing the pasta, that makes any sense.
+
+**A · #86:** And why is that?
+
+**B · Follow-up:** Again its just how my brain has been like! Like my brain was made to think that the further away something is from being fresh the worst it tastes. Is that true, I don't know, but I feel like it is. So yeah I don't know I feel like that's just how I have come to like experience things. But I'm not sure.
+
+---
+
+#### #87 · How do frozen or long-stored homemade foods compare to fresh in your mind?
+
+**Transcript (actual)** · *First turn = first **B:** below · Full thread = both **B:** turns*
+
+**A · CAN SIMULATE (#87):** Ok and how do foods then that you make and either leave for a long period of time or freeze even and then there's quite a long period of time between you making them and eating them. How do these types of meals compare to foods that you buy frozen and then freeze yourself?
+
+**B · First turn:** Hmm, that's a very good question. I'd say they're, in terms of comparison like they're better, especially because the things that I buy frozen are not like meals in itself, they're more like ingredients that I have to use to make meals. Like they're only frozen food as such that I buy are like frozen pizzas from time to time and those are frozen pizzas, we all know how those taste like, something quick and tasty. But yeah like the food that I keep frozen is something like sauces or soups, so that's one that's reheated is honestly as good as when it was fresh.
+
+**A · #88:** They are as good as when they were fresh?
+
+**B · Follow-up:** Yeah actually I've never like, I've never had a problem with reheating things that are frozen before
+
+---
+
+#### #89 · How does your brain categorize foods as safe or unsafe when reheated?
+
+**Transcript (actual)** · *First turn only (no follow-ups on this thread)*
+
+**A · CAN SIMULATE (#89):** I see, ok. So when you mention then in terms of the way you mention that the way your brain works in terms of when foods have first been made and then there's that long period of time and they're not quite as good or you feel that that time in between is, what types of food are we talking about here then?
+
+**B · First turn:** Obviously like any type of food like for example pasta, rice, sauces, like I feel like it's a general idea that I have that the more time that it is stored that the less tasty its going to be. I cannot think right now of any exception.
+
+---
 
 ### Step summaries
 
