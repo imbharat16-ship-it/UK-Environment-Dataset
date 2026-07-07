@@ -5,6 +5,18 @@
 
 Each question below maps to the closest tagged turn per participant. Turn numbers refer to Interview 2 substantive turns in that participant's twin document.
 
+## Benchmark exclusions (6 Jul 2026 review)
+
+| Participant | Question | Status | Reason |
+|-------------|----------|--------|--------|
+| Cath | Q7 | SKIP | #14 is social evangelism, not responsibility |
+| Eliza | Q4 | SKIP | #112 belongs to Q5 only |
+| Isabella | Q4 | SKIP | #65 is circumstances analogy, not plastic exceptions |
+| Isabella | Q5 | SKIP | #85 is reheating preference, not packaging/shopping |
+| Jacob | Q4 | SKIP | #29 is preference/disposal, not compromise |
+
+**P0 note — Ella:** Retain all mappings; flagged in review for indirect I2 sourcing. Score with caution.
+
 ---
 
 ## Question 1 · How do alternative packaging materials compare to plastic for you?
@@ -120,10 +132,9 @@ Each question below maps to the closest tagged turn per participant. Turn number
 | Participant | Turn | Twin paraphrase |
 |-------------|------|-----------------|
 | Cath | #5 | You reuse yoghurt pots for garden labels — why don't you make your own bread, cakes, or yoghurt? |
-| Isabella | #65 | What exceptions do you make for single-use plastics in practice? |
 | Ella | #48 | Did plastic packaging affect your decision to buy reduced udon noodles? |
-| Jacob | #29 | Do you prefer plastic, paper, cardboard, or glass when buying food? |
-| Eliza | #112 | Research says plastic packaging can keep food fresher — how do you weigh that against plastic waste? |
+
+*Benchmark skip — Eliza, Isabella, Jacob (see exclusions table).*
 
 ### Cath (#5) · full thread (#5–6)
 
@@ -135,18 +146,6 @@ Each question below maps to the closest tagged turn per participant. Turn number
 
 > Yeah, I don't think I've thought much about the plastic when I was buying it, just more so when I was reflecting, looking through all of the cupboards for that diary entry, its something that I thought about.
 
-### Eliza (#112) · first turn only
-
-> Yeah I don't know because again its not that I can't be impartial because I don't know the science behind the plastic in terms of yes I know its bad for the environment because I saw that it is but I don't understand why. Like specifically what is the thing that is so bad about plastic? Ok yeah assuming that the plastic is not going to go in, throwing at the sea and polluting, but what is the thing about plastic that is so bad, I don't understand that. While with food I understand what is so bad about wasting food. I've seen the damaging in the, the people that don't have access to food and stuff like that and I know how much it costs to buy food because obviously I pay for food so, its something that I have more present in my life than what plastic waste actually is. So I think I would prefer to buy something in plastic that can make, yeah that can make food longer, that just buy something in paper and then the food goes bad. Because I think maybe its just because its something that is more present in my life because I know how bad it is to just, I mean I've seen how bad it is to not get food. I know there are people that cannot have food. I know how much it costs to get money and then to buy food. So yeah it's a bit like that. I think I just don't know the science behind plastic that much.
-
-### Isabella (#65) · first turn only
-
-> that's a very good question. I don't know because I, when I said exceptions I really meant in terms of like circumstances. So for me right now as someone who doesn't have a car and that depends on either walking or public transport it may be for example wouldn't be the most comfortable for me to like go to a local farm and just like saying as an idea. My mother for example, the guy he used to get the oranges from, it's a huge package like if I was someone who didn't have a car I wouldn't know how to get that up to my house. I would probably prefer to just go to the supermarket and buy like a little, you know. So that's one the exceptions, we all have different circumstances and different means to do things. So I feel like we always have to be also conscious of that and not be too demanding and strict. Because at the end of the day that's always what gets people off this kind of like initiatives. Feeling like they have to do too much so then not doing absolutely anything. Yeah I don't know if that makes sense.
-
-### Jacob (#29) · first turn only
-
-> I think I buy product because I need the product but mostly not because of I want a bottle or I want a rubber or I want a container. If I'm, there's a need for me to buy a drink I can't tell the person who is selling the drink should put it in the, a rubber container for me because its already packaged in a bottle. I have to buy the bottle. But it is my responsibility to ensure that when I buy from either bottle or a container I have to dispose this in appropriate bin. Not to dispose anyhow. So it's about the, what the food has contained, now about how I want my packaging to be done.
-
 ---
 
 ## Question 5 · How does food waste or freshness affect your packaging/shopping choices?
@@ -156,8 +155,9 @@ Each question below maps to the closest tagged turn per participant. Turn number
 | Eliza | #112 | Research says plastic packaging can keep food fresher — how do you weigh that against plastic waste? |
 | Jacob | #8 | With food-industry arguments that plastic extends shelf life, how do you weigh food waste versus plastic waste? |
 | Cath | #29–30 | Meal planning + food waste vs plastic waste on a scale |
-| Isabella | #85 | How do you feel about eating leftovers or preheated foods? |
 | Ella | #129 | In Interview 1 you preferred packaged snacks over fruit — what draws you to those snacks? |
+
+*Benchmark skip — Isabella (see exclusions table).*
 
 ### Cath (#29–30) · full thread
 
@@ -169,15 +169,9 @@ Each question below maps to the closest tagged turn per participant. Turn number
 
 > They're just easy because there's no pressure for me to use them up quickly because they'll all last a very very long time. If you put them in your bag they're not going to go off either because say if you put like a banana in your bag it can go a bit gross if you leave them too long. And it can smell quite bad when they start to go off as well. But obviously you don't get that with any of the other products.
 
-### Eliza (#112)
+### Eliza (#112) · first turn only
 
-> *(See Question 4, Eliza #112.)*
-
-### Isabella (#85) · full thread (#85–86)
-
-> Yeah so I'm no hater, its not that I can't do it but I just like the food that is like freshly made, like just made, just out of the oven. You cannot match that once its been heated again. So obviously this was the perfect world I would always eat something that is freshly made, but no I just like I have to deal with that. But like for example if I store some pasta I'm not going to eat it like four days later. Well I would if that came to be the case but I would make sure that I eat it soon and then I cook again. Than to cook something different and like keep storing the pasta, that makes any sense.
->
-> Again its just how my brain has been like! Like my brain was made to think that the further away something is from being fresh the worst it tastes. Is that true, I don't know, but I feel like it is. So yeah I don't know I feel like that's just how I have come to like experience things. But I'm not sure.
+> Yeah I don't know because again its not that I can't be impartial because I don't know the science behind the plastic in terms of yes I know its bad for the environment because I saw that it is but I don't understand why. Like specifically what is the thing that is so bad about plastic? Ok yeah assuming that the plastic is not going to go in, throwing at the sea and polluting, but what is the thing about plastic that is so bad, I don't understand that. While with food I understand what is so bad about wasting food. I've seen the damaging in the, the people that don't have access to food and stuff like that and I know how much it costs to buy food because obviously I pay for food so, its something that I have more present in my life than what plastic waste actually is. So I think I would prefer to buy something in plastic that can make, yeah that can make food longer, that just buy something in paper and then the food goes bad. Because I think maybe its just because its something that is more present in my life because I know how bad it is to just, I mean I've seen how bad it is to not get food. I know there are people that cannot have food. I know how much it costs to get money and then to buy food. So yeah it's a bit like that. I think I just don't know the science behind plastic that much.
 
 ### Jacob (#8) · full thread (#8–9)
 
@@ -229,9 +223,9 @@ Each question below maps to the closest tagged turn per participant. Turn number
 
 > So I think I'd probably go for the paper just because they are like more, I don't know the word for this but like they don't last as long as plastic. So I think that with the knowledge I have that that would probably be like the most environmentally friendly option. So I'd probably go for that if I had like the chance to choose.
 
-### Jacob (#29)
+### Jacob (#29) · first turn only
 
-> *(See Question 4, Jacob #29.)*
+> I think I buy product because I need the product but mostly not because of I want a bottle or I want a rubber or I want a container. If I'm, there's a need for me to buy a drink I can't tell the person who is selling the drink should put it in the, a rubber container for me because its already packaged in a bottle. I have to buy the bottle. But it is my responsibility to ensure that when I buy from either bottle or a container I have to dispose this in appropriate bin. Not to dispose anyhow. So it's about the, what the food has contained, now about how I want my packaging to be done.
 
 ---
 
@@ -242,22 +236,14 @@ Each question below maps to the closest tagged turn per participant. Turn number
 | Ella | #17–18 | Media awareness, consumer choices, and whether change starts with consumers |
 | Jacob | #34 | Should waste reduction start with producers rather than consumers? |
 | Isabella | #64 | What are your thoughts on the environmental implications of plastic food packaging? |
-| Cath | #14 | Do you try to tell friends and family about peat-free compost and plastic packaging? |
-| Eliza | #17 | What do you mean when you say plastic pollution is a big media problem? |
 
-### Cath (#14) · first turn only
-
-> Yeah some people do. It depends. I've got some friends who are onboard with it and occasionally I've told people and they're like oh that's fantastic I'll start doing that and I'm like oh great. But then just this morning I was out with a friend and I mentioned it and I said something like, I think its because I said I had the meeting with you later, and it got onto the subject and I said something like oh but I keep all of that now and take it to Tesco. And she just said, oh yes I know you do. But that was it. But it sounded a bit sort of dismissive, like I know you do but you know, but you're funny like that. I just, people just don't care enough and I don't know if its because it just, I don't know if its ignorance, you know in the true sense of the word, like being literally ignorant of the problem or if its laziness or if its genuinely not caring. Like well it's not really my problem you know I just don't understand why, it seems so easy to me to just keep it to one side, I don't really see the problem with that. But most people aren't interested, they're just not. They're too busy or they don't care. But I've got some friends who do care and we talk about it. We talk about what can go in and what can't, you know we have kind of conversations about that. And I warm more to those friends now. I can feel myself sort of yeah migrating towards people that feel the same as me. They don't think I'm just sort of yeah a bit strange for wanting to keep it. Yeah the soft plastics seem to be the major problem for me. That seems to be what I end up with most of. I can avoid quite a lot of the other ones quite nicely. But this soft plastics seem to be what I end up with. Yeah I think it's a very big problem.
+*Benchmark skip — Cath (see exclusions table). Eliza: no I2 turn on responsibility (N/A; PDF excludes Eliza Q7).*
 
 ### Ella (#17–18) · full thread
 
 > Yeah, so I think that when papers like that come out they're circulating online, people are posting about them on social media and then eventually it comes to where the BBC does a news article about it. And then hopefully the point is that its awareness and everyone knows about it because awareness is really important for reaching consumer level choices. Because without consumers changing their choices there's no way that big corporations are going to change the way that they work because well they don't need to because people are still buying from them. But if people become eco conscious then they will change their choices, they'll stop buying from corporations that they think are sort of unsustainable and it will force the corporations to change.
 >
 > I think it does yeah.
-
-### Eliza (#17) · first turn only
-
-> Yeah, so I think that when papers like that come out they're circulating online, people are posting about them on social media and then eventually it comes to where the BBC does a news article about it. And then hopefully the point is that its awareness and everyone knows about it because awareness is really important for reaching consumer level choices. Because without consumers changing their choices there's no way that big corporations are going to change the way that they work because well they don't need to because people are still buying from them. But if people become eco conscious then they will change their choices, they'll stop buying from corporations that they think are sort of unsustainable and it will force the corporations to change.
 
 ### Isabella (#64)
 
@@ -276,10 +262,10 @@ Each question below maps to the closest tagged turn per participant. Turn number
 | 1 | 10 | 45 | 75 | 66 | 27 |
 | 2 | 7 | 16 | 71 | 64 | 27 |
 | 3 | 10 | 45 | 75 | 66 | 23–25 |
-| 4 | 5–6 | 48 | 112 | 65 | 29 |
-| 5 | 29–30 | 129 | 112 | 85–86 | 8–9 |
+| 4 | 5–6 | 48 | — | — | — |
+| 5 | 29–30 | 129 | 112 | — | 8–9 |
 | 6 | 11 | 51–52 | 13 | 68 | 29 |
-| 7 | 14 | 17–18 | 17 | 64 | 34 |
+| 7 | — | 17–18 | — | 64 | 34 |
 
 ---
 
@@ -290,5 +276,4 @@ Each question below maps to the closest tagged turn per participant. Turn number
 | Cath | Q2 (#7–9), Q4 (#5–6), Q5 (#29–30) |
 | Ella | Q6 (#51–52), Q7 (#17–18) |
 | Eliza | Q1 (#75), Q6 (#13 through Smol) |
-| Isabella | Q5 (#85–86) |
 | Jacob | Q3 (#23–25), Q5 (#8–9) |
